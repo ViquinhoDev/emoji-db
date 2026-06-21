@@ -1,0 +1,2000 @@
+{
+  "emojis": [
+    {
+      "id": "0001",
+      "emoji": "😀",
+      "name_en": "Grinning Face",
+      "name_pt": "Rosto Sorridente",
+      "description_en": "A smiling face with open eyes and a big grin, expressing happiness and cheerfulness",
+      "description_pt": "Um rosto sorridente com olhos abertos e um grande sorriso, expressando alegria e bom humor",
+      "description_fr": "Un visage souriant avec les yeux ouverts et un grand sourire, exprimant la joie et la bonne humeur",
+      "description_es": "Un rostro sonriente con los ojos abiertos y una sonrisa grande, expresando alegría y buen humor"
+    },
+    {
+      "id": "0002",
+      "emoji": "😃",
+      "name_en": "Grinning Face with Big Eyes",
+      "name_pt": "Rosto Sorridente com Olhos Grandes",
+      "description_en": "A smiling face with big eyes and a wide smile, showing excitement and enthusiasm",
+      "description_pt": "Um rosto sorridente com olhos grandes e um largo sorriso, mostrando excitação e entusiasmo",
+      "description_fr": "Un visage souriant avec de grands yeux et un large sourire, montrant l'excitation et l'enthousiasme",
+      "description_es": "Un rostro sonriente con ojos grandes y una sonrisa amplia, mostrando excitación y entusiasmo"
+    },
+    {
+      "id": "0003",
+      "emoji": "😄",
+      "name_en": "Grinning Face with Smiling Eyes",
+      "name_pt": "Rosto Sorridente com Olhos Sorrindo",
+      "description_en": "A joyful face with smiling eyes and a big grin, expressing genuine happiness",
+      "description_pt": "Um rosto alegre com olhos sorrindo e um grande sorriso, expressando felicidade genuína",
+      "description_fr": "Un visage joyeux avec les yeux qui sourient et un grand sourire, exprimant le vrai bonheur",
+      "description_es": "Un rostro alegre con ojos sonrientes y una sonrisa grande, expresando felicidad genuina"
+    },
+    {
+      "id": "0004",
+      "emoji": "😁",
+      "name_en": "Beaming Face with Smiling Eyes",
+      "name_pt": "Rosto Radiante com Olhos Sorrindo",
+      "description_en": "A radiant face with a bright smile and closed eyes, expressing extreme happiness and satisfaction",
+      "description_pt": "Um rosto radiante com um sorriso brilhante e olhos fechados, expressando extrema felicidade",
+      "description_es": "Un rostro radiante con una sonrisa brillante y ojos cerrados, expresando felicidad y satisfacción extremas"
+    },
+    {
+      "id": "0005",
+      "emoji": "😆",
+      "name_en": "Grinning Squinting Face",
+      "name_pt": "Rosto Sorridente Piscando",
+      "description_en": "A laughing face with closed eyes in the form of crescents, indicating genuine laughter",
+      "description_pt": "Um rosto rindo com olhos fechados em forma de crescentes, indicando risada genuína",
+      "description_fr": "Un visage rieur avec les yeux fermés sous forme de croissants, indiquant un vrai rire",
+      "description_es": "Un rostro riendo con ojos cerrados en forma de medias lunas, indicando risa genuina"
+    },
+    {
+      "id": "0006",
+      "emoji": "😅",
+      "name_en": "Grinning Face with Sweat",
+      "name_pt": "Rosto Sorridente com Suor",
+      "description_en": "A smiling face with a drop of sweat, expressing nervous laughter or relief mixed with concern",
+      "description_pt": "Um rosto sorridente com uma gota de suor, expressando nervosismo ou alívio",
+      "description_fr": "Un visage souriant avec une goutte de sueur, exprimant un rire nerveux ou un soulagement",
+      "description_es": "Un rostro sonriente con una gota de sudor, expresando risa nerviosa o alivio"
+    },
+    {
+      "id": "0007",
+      "emoji": "🤣",
+      "name_en": "Rolling on the Floor Laughing",
+      "name_pt": "Rolando no Chão de Riso",
+      "description_en": "A face laughing so hard it appears to be rolling on the floor, expressing uncontrollable laughter",
+      "description_pt": "Um rosto rindo tão forte que parece estar rolando no chão, expressando riso incontrolável",
+      "description_fr": "Un visage qui rit si fort qu'il semble rouler par terre, exprimant un rire irrépressible",
+      "description_es": "Un rostro que ríe tan fuerte que parece estar rodando por el suelo, expresando risa incontrolable"
+    },
+    {
+      "id": "0008",
+      "emoji": "😂",
+      "name_en": "Face with Tears of Joy",
+      "name_pt": "Rosto com Lágrimas de Alegria",
+      "description_en": "A happy face laughing with tears of joy streaming down, expressing intense laughter",
+      "description_pt": "Um rosto feliz rindo com lágrimas de alegria escorrendo, expressando riso intenso",
+      "description_fr": "Un visage heureux qui rit avec des larmes de joie, exprimant un rire intense",
+      "description_es": "Un rostro feliz que ríe con lágrimas de alegría, expresando risa intensa"
+    },
+    {
+      "id": "0009",
+      "emoji": "🙂",
+      "name_en": "Slightly Smiling Face",
+      "name_pt": "Rosto Levemente Sorridente",
+      "description_en": "A face with a subtle and slight smile, expressing calm satisfaction or polite approval",
+      "description_pt": "Um rosto com um sorriso sutil e ligeiro, expressando satisfação calma",
+      "description_es": "Un rostro con una sonrisa sutil y ligera, expresando satisfacción tranquila"
+    },
+    {
+      "id": "0010",
+      "emoji": "🙃",
+      "name_en": "Upside Down Face",
+      "name_pt": "Rosto de Cabeça para Baixo",
+      "description_en": "An upside down face with a smile, expressing sarcasm, irony, or mild frustration",
+      "description_pt": "Um rosto de cabeça para baixo com um sorriso, expressando sarcasmo ou ironia",
+      "description_es": "Un rostro al revés con una sonrisa, expresando sarcasmo, ironía o leve frustración"
+    },
+    {
+      "id": "0011",
+      "emoji": "😉",
+      "name_en": "Winking Face",
+      "name_pt": "Rosto Piscando",
+      "description_en": "A smiling face with one eye winking, indicating joking, flirting, or sharing a secret",
+      "description_pt": "Um rosto sorridente com um olho piscando, indicando brincadeira ou flerte",
+      "description_es": "Un rostro sonriente con un ojo guiñando, indicando broma, coqueteo o compartir un secreto"
+    },
+    {
+      "id": "0012",
+      "emoji": "😊",
+      "name_en": "Smiling Face with Smiling Eyes",
+      "name_pt": "Rosto Sorridente com Olhos Sorrindo",
+      "description_en": "A warm and friendly smiling face with eyes also smiling, expressing genuine kindness",
+      "description_pt": "Um rosto sorridente quente e amigável com olhos também sorrindo, expressando gentileza genuína",
+      "description_fr": "Un visage souriant chaud et amical avec les yeux qui sourient aussi, exprimant une véritable gentillesse",
+      "description_es": "Un rostro sonriente cálido y amigable con ojos también sonrientes, expresando verdadera amabilidad"
+    },
+    {
+      "id": "0013",
+      "emoji": "😇",
+      "name_en": "Smiling Face with Halo",
+      "name_pt": "Rosto Sorridente com Auréola",
+      "description_en": "An innocent smiling face with a halo, expressing innocence, virtue, or feigned goodness",
+      "description_pt": "Um rosto sorridente inocente com uma auréola, expressando inocência ou virtude",
+      "description_fr": "Un visage souriant innocent avec une auréole, exprimant l'innocence, la vertu ou une fausse bonté",
+      "description_es": "Un rostro sonriente inocente con una aureola, expresando inocencia, virtud o bondad fingida"
+    },
+    {
+      "id": "0014",
+      "emoji": "🥰",
+      "name_en": "Smiling Face with Hearts",
+      "name_pt": "Rosto Sorridente com Corações",
+      "description_en": "A loving smiling face surrounded by small hearts, expressing love and affection",
+      "description_pt": "Um rosto sorridente amoroso cercado por pequenos corações, expressando amor e afeto",
+      "description_fr": "Un visage souriant aimant entouré de petits cœurs, exprimant l'amour et l'affection",
+      "description_es": "Un rostro sonriente amoroso rodeado de pequeños corazones, expresando amor y afecto"
+    },
+    {
+      "id": "0015",
+      "emoji": "😍",
+      "name_en": "Smiling Face with Heart Eyes",
+      "name_pt": "Rosto Sorridente com Olhos de Coração",
+      "description_en": "A face in love with heart-shaped eyes, expressing being in love or extreme attraction",
+      "description_pt": "Um rosto apaixonado com olhos em forma de coração, expressando estar apaixonado",
+      "description_fr": "Un visage amoureux avec les yeux en forme de cœur, exprimant l'amour ou l'attraction extrême",
+      "description_es": "Un rostro enamorado con ojos en forma de corazón, expresando estar enamorado o atracción extrema"
+    },
+    {
+      "id": "0016",
+      "emoji": "🤩",
+      "name_en": "Smiling Face with Star Eyes",
+      "name_pt": "Rosto Sorridente com Olhos de Estrela",
+      "description_en": "A starstruck smiling face with star eyes, expressing amazement and admiration",
+      "description_pt": "Um rosto sorridente impressionado com olhos de estrela, expressando admiração",
+      "description_fr": "Un visage souriant ébloui avec les yeux étoilés, exprimant l'émerveillement et l'admiration",
+      "description_es": "Un rostro sonriente impresionado con ojos de estrella, expresando asombro y admiración"
+    },
+    {
+      "id": "0017",
+      "emoji": "😘",
+      "name_en": "Face Blowing a Kiss",
+      "name_pt": "Rosto Soprando um Beijo",
+      "description_en": "A smiling face blowing a kiss, expressing affection or sending love",
+      "description_pt": "Um rosto sorridente soprando um beijo, expressando afeto ou enviando amor",
+      "description_fr": "Un visage souriant soufflant un baiser, exprimant l'affection ou l'envoi d'amour",
+      "description_es": "Un rostro sonriente soplando un beso, expresando afecto o enviando amor"
+    },
+    {
+      "id": "0018",
+      "emoji": "😗",
+      "name_en": "Kissing Face",
+      "name_pt": "Rosto Beijando",
+      "description_en": "A face with puckered lips for kissing, expressing affection or romantic feelings",
+      "description_pt": "Um rosto com lábios franzidos para beijar, expressando afeto",
+      "description_fr": "Un visage avec les lèvres plissées pour un baiser, exprimant l'affection ou les sentiments romantiques",
+      "description_es": "Un rostro con los labios fruncidos para besar, expresando afecto o sentimientos románticos"
+    },
+    {
+      "id": "0019",
+      "emoji": "😚",
+      "name_en": "Kissing Face with Closed Eyes",
+      "name_pt": "Rosto Beijando com Olhos Fechados",
+      "description_en": "A face kissing with eyes closed, expressing tender love and affection",
+      "description_pt": "Um rosto beijando com os olhos fechados, expressando amor e afeto",
+      "description_fr": "Un visage qui s'embrasse les yeux fermés, exprimant l'amour tendre et l'affection",
+      "description_es": "Un rostro besando con los ojos cerrados, expresando amor y afecto tiernos"
+    },
+    {
+      "id": "0020",
+      "emoji": "😙",
+      "name_en": "Kissing Face with Smiling Eyes",
+      "name_pt": "Rosto Beijando com Olhos Sorrindo",
+      "description_en": "A kissing face with smiling eyes, expressing loving and happy affection",
+      "description_pt": "Um rosto beijando com olhos sorrindo, expressando afeto amoroso e feliz",
+      "description_fr": "Un visage qui s'embrasse avec les yeux qui sourient, exprimant une affection aimante et heureuse",
+      "description_es": "Un rostro besando con ojos sonrientes, expresando afecto amoroso y feliz"
+    },
+    {
+      "id": "0021",
+      "emoji": "🥲",
+      "name_en": "Smiling Face with Tear",
+      "name_pt": "Rosto Sorridente com Lágrima",
+      "description_en": "A smiling face with a single tear, expressing bittersweet emotions or happy-sad feelings",
+      "description_pt": "Um rosto sorridente com uma única lágrima, expressando emoções agridoces",
+      "description_fr": "Un visage souriant avec une seule larme, exprimant des émotions amères-douces ou des sentiments heureux-tristes",
+      "description_es": "Un rostro sonriente con una sola lágrima, expresando emociones agridulces"
+    },
+    {
+      "id": "0022",
+      "emoji": "😋",
+      "name_en": "Face Savoring Food",
+      "name_pt": "Rosto Saboreando Comida",
+      "description_en": "A happy face licking its lips, expressing appetite or enjoyment of something tasty",
+      "description_pt": "Um rosto feliz lambendo os lábios, expressando apetite ou satisfação com algo saboroso",
+      "description_fr": "Un visage heureux se léchant les lèvres, exprimant l'appétit ou la satisfaction de quelque chose de savoureux",
+      "description_es": "Un rostro feliz lamiéndose los labios, expresando apetito o disfrute de algo sabroso"
+    },
+    {
+      "id": "0023",
+      "emoji": "😛",
+      "name_en": "Winking Face with Tongue",
+      "name_pt": "Rosto Piscando com Língua",
+      "description_en": "A playful face with tongue sticking out and winking, expressing teasing or joking",
+      "description_pt": "Um rosto brincalhão com a língua de fora e piscando, expressando brincadeira",
+      "description_fr": "Un visage ludique avec la langue qui sort et qui cligne, exprimant de la taquinerie ou une plaisanterie",
+      "description_es": "Un rostro juguetón con la lengua sacada y guiñando, expresando burla o broma"
+    },
+    {
+      "id": "0024",
+      "emoji": "😜",
+      "name_en": "Winking Face with Tongue",
+      "name_pt": "Rosto Piscando com Língua",
+      "description_en": "A teasing face with tongue sticking out, expressing playfulness and light mocking",
+      "description_pt": "Um rosto provocador com a língua de fora, expressando brincadeira e gozação leve",
+      "description_fr": "Un visage taquin avec la langue qui sort, exprimant la nature ludique et la moquerie légère",
+      "description_es": "Un rostro burlón con la lengua sacada, expresando juego y burla ligera"
+    },
+    {
+      "id": "0025",
+      "emoji": "🤪",
+      "name_en": "Zany Face",
+      "name_pt": "Rosto Maluco",
+      "description_en": "A crazy or silly face with bulging eyes, expressing silliness and wild behavior",
+      "description_pt": "Um rosto louco ou tolo com olhos esbugalhados, expressando loucura e comportamento selvagem",
+      "description_fr": "Un visage fou ou bête avec les yeux exorbités, exprimant la bêtise et le comportement sauvage",
+      "description_es": "Un rostro loco o tonto con ojos saltones, expresando locura y comportamiento salvaje"
+    },
+    {
+      "id": "0026",
+      "emoji": "😌",
+      "name_en": "Relieved Face",
+      "name_pt": "Rosto Aliviado",
+      "description_en": "A calm and relieved smiling face, expressing peace and contentment",
+      "description_pt": "Um rosto calmo e aliviado sorrindo, expressando paz e contentamento",
+      "description_fr": "Un visage souriant calme et soulagé, exprimant la paix et la satisfaction",
+      "description_es": "Un rostro sonriente tranquilo y aliviado, expresando paz y satisfacción"
+    },
+    {
+      "id": "0027",
+      "emoji": "😔",
+      "name_en": "Pensive Face",
+      "name_pt": "Rosto Pensativo",
+      "description_en": "A thoughtful or sad looking face, expressing worry, sadness, or deep thought",
+      "description_pt": "Um rosto que parece pensativo ou triste, expressando preocupação ou pensamento profundo",
+      "description_fr": "Un visage qui semble pensif ou triste, exprimant l'inquiétude ou la pensée profonde",
+      "description_es": "Un rostro que parece pensativo o triste, expresando preocupación o pensamiento profundo"
+    },
+    {
+      "id": "0028",
+      "emoji": "😑",
+      "name_en": "Expressionless Face",
+      "name_pt": "Rosto Sem Expressão",
+      "description_en": "A face with no expression, indicating indifference or neutrality",
+      "description_pt": "Um rosto sem expressão, indicando indiferença ou neutralidade",
+      "description_fr": "Un visage sans expression, indiquant l'indifférence ou la neutralité",
+      "description_es": "Un rostro sin expresión, indicando indiferencia o neutralidad"
+    },
+    {
+      "id": "0029",
+      "emoji": "😐",
+      "name_en": "Neutral Face",
+      "name_pt": "Rosto Neutro",
+      "description_en": "A face with neutral expression, expressing neither happiness nor sadness",
+      "description_pt": "Um rosto com expressão neutra, não expressando felicidade nem tristeza",
+      "description_fr": "Un visage avec une expression neutre, n'exprimant ni bonheur ni tristesse",
+      "description_es": "Un rostro con expresión neutra, sin expresar felicidad ni tristeza"
+    },
+    {
+      "id": "0030",
+      "emoji": "😏",
+      "name_en": "Smirking Face",
+      "name_pt": "Rosto com Sorriso Malandro",
+      "description_en": "A face with a smug or smirking expression, indicating arrogance or cynicism",
+      "description_pt": "Um rosto com uma expressão arrogante ou malandra, indicando cinismo",
+      "description_fr": "Un visage avec une expression suffisante ou moqueuse, indiquant l'arrogance ou le cynisme",
+      "description_es": "Un rostro con expresión arrogante o burlona, indicando arrogancia o cinismo"
+    },
+    {
+      "id": "0031",
+      "emoji": "😒",
+      "name_en": "Unamused Face",
+      "name_pt": "Rosto Não Divertido",
+      "description_en": "A disapproving or unimpressed face, expressing dissatisfaction or skepticism",
+      "description_pt": "Um rosto desaprovador ou não impressionado, expressando insatisfação",
+      "description_fr": "Un visage désapprobateur ou impressionné, exprimant l'insatisfaction ou le scepticisme",
+      "description_es": "Un rostro desaprobador o poco impresionado, expresando insatisfacción o escepticismo"
+    },
+    {
+      "id": "0032",
+      "emoji": "🙁",
+      "name_en": "Slightly Frowning Face",
+      "name_pt": "Rosto Levemente Franzido",
+      "description_en": "A slightly sad or frowning face, expressing mild disappointment or displeasure",
+      "description_pt": "Um rosto levemente triste ou franzido, expressando decepção ou desgosto",
+      "description_fr": "Un visage légèrement triste ou froncé, exprimant une légère déception ou du mécontentement",
+      "description_es": "Un rostro ligeramente triste o fruncido, expresando decepción o desagrado"
+    },
+    {
+      "id": "0033",
+      "emoji": "☹️",
+      "name_en": "Frowning Face",
+      "name_pt": "Rosto Franzido",
+      "description_en": "A sad or frowning face, expressing sadness or strong disapproval",
+      "description_pt": "Um rosto triste ou franzido, expressando tristeza ou forte desaprovação",
+      "description_fr": "Un visage triste ou froncé, exprimant la tristesse ou une forte désapprobation",
+      "description_es": "Un rostro triste o fruncido, expresando tristeza o desaprobación fuerte"
+    },
+    {
+      "id": "0034",
+      "emoji": "😲",
+      "name_en": "Astonished Face",
+      "name_pt": "Rosto Assustado",
+      "description_en": "A shocked or surprised face, expressing surprise, fear, or amazement",
+      "description_pt": "Um rosto chocado ou surpreso, expressando choque, medo ou espanto",
+      "description_fr": "Un visage choqué ou surpris, exprimant la surprise, la peur ou l'étonnement",
+      "description_es": "Un rostro sorprendido o chocado, expresando sorpresa, miedo o asombro"
+    },
+    {
+      "id": "0035",
+      "emoji": "😞",
+      "name_en": "Disappointed Face",
+      "name_pt": "Rosto Decepcionado",
+      "description_en": "A sad and disappointed face, expressing sadness and letdown",
+      "description_pt": "Um rosto triste e decepcionado, expressando tristeza e decepção",
+      "description_fr": "Un visage triste et déçu, exprimant la tristesse et la déception",
+      "description_es": "Un rostro triste y decepcionado, expresando tristeza y decepción"
+    },
+    {
+      "id": "0036",
+      "emoji": "😖",
+      "name_en": "Confounded Face",
+      "name_pt": "Rosto Confuso",
+      "description_en": "A distressed or confused face, expressing distress and confusion",
+      "description_pt": "Um rosto angustiado ou confuso, expressando angústia e confusão",
+      "description_fr": "Un visage angoissé ou confus, exprimant la détresse et la confusion",
+      "description_es": "Un rostro angustiado o confuso, expresando angustia y confusión"
+    },
+    {
+      "id": "0037",
+      "emoji": "😢",
+      "name_en": "Crying Face",
+      "name_pt": "Rosto Chorando",
+      "description_en": "A sad face with tears, expressing sorrow and sadness",
+      "description_pt": "Um rosto triste com lágrimas, expressando tristeza e dor",
+      "description_fr": "Un visage triste avec des larmes, exprimant la tristesse et la douleur",
+      "description_es": "Un rostro triste con lágrimas, expresando dolor y tristeza"
+    },
+    {
+      "id": "0038",
+      "emoji": "😭",
+      "name_en": "Loudly Crying Face",
+      "name_pt": "Rosto Chorando Alto",
+      "description_en": "A face crying hard with big tears, expressing intense sadness and grief",
+      "description_pt": "Um rosto chorando muito com lágrimas grandes, expressando tristeza intensa",
+      "description_fr": "Un visage qui pleure beaucoup avec de grosses larmes, exprimant une profonde tristesse et du chagrin",
+      "description_es": "Un rostro llorando mucho con lágrimas grandes, expresando tristeza intensa y duelo"
+    },
+    {
+      "id": "0039",
+      "emoji": "😤",
+      "name_en": "Face with Steam from Nose",
+      "name_pt": "Rosto com Vapor do Nariz",
+      "description_en": "An angry face with steam coming from nose, expressing strong anger or frustration",
+      "description_pt": "Um rosto zangado com vapor saindo do nariz, expressando raiva forte ou frustração",
+      "description_fr": "Un visage en colère avec de la vapeur sortant du nez, exprimant une forte colère ou de la frustration",
+      "description_es": "Un rostro enojado con vapor saliendo de la nariz, expresando fuerte ira o frustración"
+    },
+    {
+      "id": "0040",
+      "emoji": "😠",
+      "name_en": "Angry Face",
+      "name_pt": "Rosto Zangado",
+      "description_en": "A very angry or furious face, expressing intense anger and hostility",
+      "description_pt": "Um rosto muito zangado ou furioso, expressando raiva intensa",
+      "description_fr": "Un visage très en colère ou furieux, exprimant une colère intense et de l'hostilité",
+      "description_es": "Un rostro muy enojado o furioso, expresando ira intensa y hostilidad"
+    },
+    {
+      "id": "0041",
+      "emoji": "🤬",
+      "name_en": "Angry Face with Symbols",
+      "name_pt": "Rosto Zangado com Símbolos",
+      "description_en": "An extremely angry face with profanity symbols, expressing uncontrollable rage",
+      "description_pt": "Um rosto extremamente zangado com símbolos de profanidade, expressando raiva incontrolável",
+      "description_fr": "Un visage extrêmement en colère avec des symboles de profanité, exprimant une rage incontrôlable",
+      "description_es": "Un rostro extremadamente enojado con símbolos de profanidad, expresando ira incontrolable"
+    },
+    {
+      "id": "0042",
+      "emoji": "😈",
+      "name_en": "Smiling Face with Horns",
+      "name_pt": "Rosto Sorridente com Chifres",
+      "description_en": "A smiling devilish face with horns, expressing playful mischief or evil intentions",
+      "description_pt": "Um rosto demoníaco sorridente com chifres, expressando travessura brincalhona",
+      "description_fr": "Un visage diavolique souriant avec des cornes, exprimant une malveillance ludique ou des intentions mauvaises",
+      "description_es": "Un rostro demoníaco sonriente con cuernos, expresando travesura juguetona o intenciones malvadas"
+    },
+    {
+      "id": "0043",
+      "emoji": "👿",
+      "name_en": "Angry Face with Horns",
+      "name_pt": "Rosto Zangado com Chifres",
+      "description_en": "An angry devil face with horns, expressing evil or pure anger",
+      "description_pt": "Um rosto de diabo zangado com chifres, expressando maldade ou raiva pura",
+      "description_fr": "Un visage de diable en colère avec des cornes, exprimant le mal ou la colère pure",
+      "description_es": "Un rostro de diablo enojado con cuernos, expresando maldad o ira pura"
+    },
+    {
+      "id": "0044",
+      "emoji": "💀",
+      "name_en": "Skull",
+      "name_pt": "Caveira",
+      "description_en": "A skull symbol representing death or danger, often used humorously",
+      "description_pt": "Um símbolo de caveira representando morte ou perigo, frequentemente usado com humor",
+      "description_fr": "Un symbole de crâne représentant la mort ou le danger, souvent utilisé avec humour",
+      "description_es": "Un símbolo de calavera que representa la muerte o el peligro, a menudo usado con humor"
+    },
+    {
+      "id": "0045",
+      "emoji": "☠️",
+      "name_en": "Skull and Crossbones",
+      "name_pt": "Caveira e Ossos Cruzados",
+      "description_en": "A pirate skull with crossbones, representing danger, poison, or pirates",
+      "description_pt": "Uma caveira de pirata com ossos cruzados, representando perigo",
+      "description_fr": "Un crâne de pirate avec des os croisés, représentant le danger, le poison ou les pirates",
+      "description_es": "Una calavera de pirata con huesos cruzados, representando peligro, veneno o piratas"
+    },
+    {
+      "id": "0046",
+      "emoji": "💩",
+      "name_en": "Pile of Poo",
+      "name_pt": "Monte de Cocô",
+      "description_en": "A smiling pile of feces, used humorously to express negativity or disapproval",
+      "description_pt": "Um monte de cocô sorridente, usado com humor para expressar negatividade",
+      "description_fr": "Un tas de matières fécales qui sourit, utilisé avec humour pour exprimer la négativité ou la désapprobation",
+      "description_es": "Una pila de heces sonriente, utilizada con humor para expresar negatividad o desaprobación"
+    },
+    {
+      "id": "0047",
+      "emoji": "🤡",
+      "name_en": "Clown Face",
+      "name_pt": "Rosto de Palhaço",
+      "description_en": "A face painted like a clown, expressing silliness or foolishness",
+      "description_pt": "Um rosto pintado como um palhaço, expressando loucura ou tolice",
+      "description_fr": "Un visage peint comme un clown, exprimant la bêtise ou la folie",
+      "description_es": "Un rostro pintado como un payaso, expresando tontería o tonterías"
+    },
+    {
+      "id": "0048",
+      "emoji": "👹",
+      "name_en": "Ogre",
+      "name_pt": "Ogro",
+      "description_en": "A scary ogre or demon face, expressing scariness or displeasure",
+      "description_pt": "Um rosto assustador de ogro ou demônio, expressando medo",
+      "description_fr": "Un visage d'ogre ou de démon effrayant, exprimant la terreur ou le mécontentement",
+      "description_es": "Un rostro aterrador de ogro o demonio, expresando miedo o desagrado"
+    },
+    {
+      "id": "0049",
+      "emoji": "👺",
+      "name_en": "Goblin",
+      "name_pt": "Goblin",
+      "description_en": "A mischievous goblin face, expressing mischief or impishness",
+      "description_pt": "Um rosto travesso de goblin, expressando travessura",
+      "description_fr": "Un visage de gobelin malveillant, exprimant la malveillance ou l'impudence",
+      "description_es": "Un rostro de goblin travieso, expresando travesura o picardía"
+    },
+    {
+      "id": "0050",
+      "emoji": "👻",
+      "name_en": "Ghost",
+      "name_pt": "Fantasma",
+      "description_en": "A friendly ghost, often used around Halloween or to express spookiness",
+      "description_pt": "Um fantasma amigável, frequentemente usado ao redor do Halloween",
+      "description_fr": "Un fantôme sympathique, souvent utilisé autour d'Halloween ou pour exprimer la peur",
+      "description_es": "Un fantasma amigable, a menudo utilizado alrededor de Halloween o para expresar miedo"
+    },
+    {
+      "id": "0051",
+      "emoji": "👽",
+      "name_en": "Alien",
+      "name_pt": "Alienígena",
+      "description_en": "A cute alien with big eyes, representing extraterrestrial life or strangeness",
+      "description_pt": "Um alienígena fofo com olhos grandes, representando vida extraterrestre",
+      "description_fr": "Un alien mignon avec de grands yeux, représentant la vie extraterrestre ou l'étrangeté",
+      "description_es": "Un alienígena lindo con ojos grandes, representando vida extraterrestre o extrañeza"
+    },
+    {
+      "id": "0052",
+      "emoji": "👾",
+      "name_en": "Alien Monster",
+      "name_pt": "Monstro Alienígena",
+      "description_en": "A space invader style alien, representing video games or aliens",
+      "description_pt": "Um alienígena estilo invasor do espaço, representando videogames",
+      "description_fr": "Un alien de style envahisseur spatial, représentant les jeux vidéo ou les aliens",
+      "description_es": "Un alienígena de estilo invasor del espacio, representando videojuegos o extraterrestres"
+    },
+    {
+      "id": "0053",
+      "emoji": "🤖",
+      "name_en": "Robot",
+      "name_pt": "Robô",
+      "description_en": "A robot or mechanical face, expressing technology or artificial intelligence",
+      "description_pt": "Um rosto de robô ou mecânico, expressando tecnologia",
+      "description_fr": "Un visage de robot ou mécanique, exprimant la technologie ou l'intelligence artificielle",
+      "description_es": "Un rostro de robot o mecánico, expresando tecnología o inteligencia artificial"
+    },
+    {
+      "id": "0054",
+      "emoji": "😺",
+      "name_en": "Grinning Cat",
+      "name_pt": "Gato Sorridente",
+      "description_en": "A cat face with a big grin, expressing happiness in a feline way",
+      "description_pt": "Um rosto de gato com um grande sorriso, expressando felicidade felina",
+      "description_fr": "Un visage de chat avec un grand sourire, exprimant le bonheur à la manière féline",
+      "description_es": "Un rostro de gato con una gran sonrisa, expresando felicidad felina"
+    },
+    {
+      "id": "0055",
+      "emoji": "😸",
+      "name_en": "Grinning Cat with Smiling Eyes",
+      "name_pt": "Gato Sorridente com Olhos Sorrindo",
+      "description_en": "A happy cat with smiling eyes, expressing joy and contentment",
+      "description_pt": "Um gato feliz com olhos sorrindo, expressando alegria",
+      "description_fr": "Un chat heureux avec les yeux qui sourient, exprimant la joie et la satisfaction",
+      "description_es": "Un gato feliz con ojos sonrientes, expresando alegría y satisfacción"
+    },
+    {
+      "id": "0056",
+      "emoji": "😹",
+      "name_en": "Cat with Tears of Joy",
+      "name_pt": "Gato com Lágrimas de Alegria",
+      "description_en": "A cat laughing with tears of joy, expressing intense feline laughter",
+      "description_pt": "Um gato rindo com lágrimas de alegria, expressando risada felina intensa",
+      "description_fr": "Un chat riant avec des larmes de joie, exprimant une rire féline intense",
+      "description_es": "Un gato riendo con lágrimas de alegría, expresando risa felina intensa"
+    },
+    {
+      "id": "0057",
+      "emoji": "😻",
+      "name_en": "Smiling Cat with Heart Eyes",
+      "name_pt": "Gato Sorridente com Olhos de Coração",
+      "description_en": "A cat in love with heart eyes, expressing feline affection and love",
+      "description_pt": "Um gato apaixonado com olhos de coração, expressando afeto felino",
+      "description_fr": "Un chat amoureux avec des yeux en forme de cœur, exprimant l'affection féline et l'amour",
+      "description_es": "Un gato enamorado con ojos en forma de corazón, expresando afecto felino y amor"
+    },
+    {
+      "id": "0058",
+      "emoji": "😼",
+      "name_en": "Cat with Wry Smile",
+      "name_pt": "Gato com Sorriso Irônico",
+      "description_en": "A cat with a smug or sarcastic expression, expressing feline sarcasm",
+      "description_pt": "Um gato com uma expressão arrogante ou sarcástica, expressando sarcasmo felino",
+      "description_fr": "Un chat avec une expression suffisante ou sarcastique, exprimant le sarcasme félin",
+      "description_es": "Un gato con una expresión altiva o sarcástica, expresando sarcasmo felino"
+    },
+    {
+      "id": "0059",
+      "emoji": "😽",
+      "name_en": "Kissing Cat",
+      "name_pt": "Gato Beijando",
+      "description_en": "A cat blowing a kiss, expressing feline affection and tenderness",
+      "description_pt": "Um gato soprando um beijo, expressando afeto felino",
+      "description_fr": "Un chat qui envoie un baiser, exprimant l'affection et la tendresse félines",
+      "description_es": "Un gato soplando un beso, expresando afecto y ternura felina"
+    },
+    {
+      "id": "0060",
+      "emoji": "🙀",
+      "name_en": "Weary Cat",
+      "name_pt": "Gato Cansado",
+      "description_en": "A frightened or weary cat, expressing fear or exhaustion",
+      "description_pt": "Um gato assustado ou cansado, expressando medo ou exaustão",
+      "description_fr": "Un chat effrayé ou fatigué, exprimant la peur ou l'épuisement",
+      "description_es": "Un gato asustado o cansado, expresando miedo o agotamiento"
+    },
+    {
+      "id": "0061",
+      "emoji": "😿",
+      "name_en": "Crying Cat",
+      "name_pt": "Gato Chorando",
+      "description_en": "A sad cat with tears, expressing feline sadness or disappointment",
+      "description_pt": "Um gato triste com lágrimas, expressando tristeza ou decepção felina",
+      "description_fr": "Un chat triste avec des larmes, exprimant la tristesse ou la déception féline",
+      "description_es": "Un gato triste con lágrimas, expresando tristeza o decepción felina"
+    },
+    {
+      "id": "0062",
+      "emoji": "😾",
+      "name_en": "Pouting Cat",
+      "name_pt": "Gato Emburrado",
+      "description_en": "An angry or pouting cat, expressing feline anger or displeasure",
+      "description_pt": "Um gato zangado ou emburrado, expressando raiva ou desagrado felino",
+      "description_fr": "Un chat en colère ou de mauvaise humeur, exprimant la colère ou le mécontentement félin",
+      "description_es": "Un gato enojado o de mal humor, expresando ira o desagrado felino"
+    },
+    {
+      "id": "0063",
+      "emoji": "👋",
+      "name_en": "Waving Hand",
+      "name_pt": "Mão Acenando",
+      "description_en": "A hand waving hello or goodbye, expressing greeting or farewell",
+      "description_pt": "Uma mão acenando olá ou adeus, expressando saudação ou despedida",
+      "description_fr": "Une main agitant bonjour ou au revoir, exprimant une salutation ou un adieu",
+      "description_es": "Una mano saludando hola o adiós, expresando saludo o despedida"
+    },
+    {
+      "id": "0064",
+      "emoji": "🤚",
+      "name_en": "Raised Back of Hand",
+      "name_pt": "Costas da Mão Levantada",
+      "description_en": "The back of a hand raised, expressing rejection or dismissal",
+      "description_pt": "O verso de uma mão levantada, expressando rejeição ou desaprovação",
+      "description_fr": "Le dos d'une main levée, exprimant le rejet ou le congédiement",
+      "description_es": "El dorso de una mano levantada, expresando rechazo o despido"
+    },
+    {
+      "id": "0065",
+      "emoji": "🖐️",
+      "name_en": "Hand with Fingers Splayed",
+      "name_pt": "Mão com Dedos Abertos",
+      "description_en": "An open hand with all fingers spread, expressing openness or high five",
+      "description_pt": "Uma mão aberta com todos os dedos abertos, expressando abertura",
+      "description_fr": "Une main ouverte avec tous les doigts écartés, exprimant l'ouverture ou un high five",
+      "description_es": "Una mano abierta con todos los dedos extendidos, expresando apertura"
+    },
+    {
+      "id": "0066",
+      "emoji": "✋",
+      "name_en": "Raised Hand",
+      "name_pt": "Mão Levantada",
+      "description_en": "A hand raised in greeting or stop, expressing greeting or stopping",
+      "description_pt": "Uma mão levantada em saudação ou parada, expressando saudação",
+      "description_fr": "Une main levée en salutation ou pour arrêter, exprimant une salutation ou un arrêt",
+      "description_es": "Una mano levantada en saludo o para detener, expresando saludo o detención"
+    },
+    {
+      "id": "0067",
+      "emoji": "🖖",
+      "name_en": "Vulcan Salute",
+      "name_pt": "Saudação Vulcana",
+      "description_en": "The Vulcan salute hand gesture from Star Trek, expressing peace or greeting",
+      "description_pt": "O gesto de saudação vulcana do Star Trek, expressando paz",
+      "description_fr": "Le geste de salut vulcain de Star Trek, exprimant la paix ou la salutation",
+      "description_es": "El gesto de saludo Vulcano de Star Trek, expresando paz o saludo"
+    },
+    {
+      "id": "0068",
+      "emoji": "👌",
+      "name_en": "OK Hand",
+      "name_pt": "Mão OK",
+      "description_en": "A hand making the OK gesture, expressing approval or agreement",
+      "description_pt": "Uma mão fazendo o gesto OK, expressando aprovação ou concordância",
+      "description_fr": "Une main faisant le geste OK, exprimant l'approbation ou l'accord",
+      "description_es": "Una mano haciendo el gesto OK, expresando aprobación o acuerdo"
+    },
+    {
+      "id": "0069",
+      "emoji": "🤌",
+      "name_en": "Pinched Fingers",
+      "name_pt": "Dedos Pinçados",
+      "description_en": "Hand with pinched fingers, expressing something perfect or small",
+      "description_pt": "Mão com dedos pinçados, expressando algo perfeito ou pequeno",
+      "description_fr": "Main avec les doigts pincés, exprimant quelque chose de parfait ou de petit",
+      "description_es": "Mano con dedos pinzados, expresando algo perfecto o pequeño"
+    },
+    {
+      "id": "0070",
+      "emoji": "🤏",
+      "name_en": "Pinching Hand",
+      "name_pt": "Mão Pinçando",
+      "description_en": "A pinching hand gesture showing something small, expressing tiny size",
+      "description_pt": "Um gesto de mão pinçando mostrando algo pequeno, expressando tamanho minúsculo",
+      "description_fr": "Un geste de main pinçante montrant quelque chose de petit, exprimant une très petite taille",
+      "description_es": "Un gesto de mano pellizcada que muestra algo pequeño, expresando tamaño diminuto"
+    },
+    {
+      "id": "0071",
+      "emoji": "✌️",
+      "name_en": "Victory Hand",
+      "name_pt": "Mão da Vitória",
+      "description_en": "A hand making the peace or victory sign, expressing peace or victory",
+      "description_pt": "Uma mão fazendo o sinal de paz ou vitória, expressando paz ou vitória",
+      "description_fr": "Une main faisant le signe de paix ou de victoire, exprimant la paix ou la victoire",
+      "description_es": "Una mano haciendo el signo de paz o victoria, expresando paz o victoria"
+    },
+    {
+      "id": "0072",
+      "emoji": "🤞",
+      "name_en": "Crossed Fingers",
+      "name_pt": "Dedos Cruzados",
+      "description_en": "Two fingers crossed for luck, expressing hope or good wishes",
+      "description_pt": "Dois dedos cruzados para dar sorte, expressando esperança",
+      "description_fr": "Deux doigts croisés pour la chance, exprimant l'espoir ou les bons vœux",
+      "description_es": "Dos dedos cruzados para la suerte, expresando esperanza o buenos deseos"
+    },
+    {
+      "id": "0073",
+      "emoji": "🤟",
+      "name_en": "Love You Gesture",
+      "name_pt": "Gesto Te Amo",
+      "description_en": "A hand gesture meaning love you, expressing affection or love",
+      "description_pt": "Um gesto de mão significando te amo, expressando afeto",
+      "description_fr": "Un geste de main signifiant je t'aime, exprimant l'affection ou l'amour",
+      "description_es": "Un gesto de mano que significa te amo, expresando afecto o amor"
+    },
+    {
+      "id": "0074",
+      "emoji": "🤘",
+      "name_en": "Sign of the Horns",
+      "name_pt": "Sinal dos Chifres",
+      "description_en": "A rock on hand gesture with horns, expressing rock music or devil horns",
+      "description_pt": "Um gesto de mão rock com chifres, expressando música rock",
+      "description_fr": "Un geste de main rock avec des cornes, exprimant la musique rock ou les cornes du diable",
+      "description_es": "Un gesto de mano de rock con cuernos, expresando música rock o cuernos del diablo"
+    },
+    {
+      "id": "0075",
+      "emoji": "🤙",
+      "name_en": "Call Me Hand",
+      "name_pt": "Mão me Ligando",
+      "description_en": "A hand making a call me gesture, expressing phone or communication",
+      "description_pt": "Uma mão fazendo um gesto de ligue-me, expressando telefone ou comunicação",
+      "description_fr": "Une main faisant un geste d'appel, exprimant le téléphone ou la communication",
+      "description_es": "Una mano haciendo un gesto de llamada, expresando teléfono o comunicación"
+    },
+    {
+      "id": "0076",
+      "emoji": "👍",
+      "name_en": "Thumbs Up",
+      "name_pt": "Polegar para Cima",
+      "description_en": "A thumbs up gesture of approval, expressing approval and agreement",
+      "description_pt": "Um gesto de polegar para cima de aprovação, expressando aprovação",
+      "description_fr": "Un geste de pouce vers le haut d'approbation, exprimant l'approbation et l'accord",
+      "description_es": "Un gesto de pulgar hacia arriba de aprobación, expresando aprobación y acuerdo"
+    },
+    {
+      "id": "0077",
+      "emoji": "👎",
+      "name_en": "Thumbs Down",
+      "name_pt": "Polegar para Baixo",
+      "description_en": "A thumbs down gesture of disapproval, expressing disapproval and disagreement",
+      "description_pt": "Um gesto de polegar para baixo de desaprovação, expressando desaprovação",
+      "description_fr": "Un geste de pouce vers le bas de désapprobation, exprimant la désapprobation et le désaccord",
+      "description_es": "Un gesto de pulgar hacia abajo de desaprobación, expresando desaprobación y desacuerdo"
+    },
+    {
+      "id": "0078",
+      "emoji": "✊",
+      "name_en": "Raised Fist",
+      "name_pt": "Punho Levantado",
+      "description_en": "A fist raised in solidarity, expressing power and resistance",
+      "description_pt": "Um punho levantado em solidariedade, expressando poder",
+      "description_fr": "Un poing levé en solidarité, exprimant le pouvoir et la résistance",
+      "description_es": "Un puño levantado en solidaridad, expresando poder y resistencia"
+    },
+    {
+      "id": "0079",
+      "emoji": "👊",
+      "name_en": "Oncoming Fist",
+      "name_pt": "Punho Vindo",
+      "description_en": "A fist coming towards you or punching, expressing strength or aggression",
+      "description_pt": "Um punho vindo em sua direção ou socando, expressando força",
+      "description_fr": "Un poing qui vient vers vous ou qui frappe, exprimant la force ou l'agression",
+      "description_es": "Un puño que viene hacia ti o que golpea, expresando fuerza o agresión"
+    },
+    {
+      "id": "0080",
+      "emoji": "🤛",
+      "name_en": "Left Facing Fist",
+      "name_pt": "Punho Virado para Esquerda",
+      "description_en": "A fist facing to the left, expressing leftward direction or power",
+      "description_pt": "Um punho virado para a esquerda, expressando poder",
+      "description_fr": "Un poing dirigé vers la gauche, exprimant la direction vers la gauche ou le pouvoir",
+      "description_es": "Un puño mirando hacia la izquierda, expresando dirección izquierda o poder"
+    },
+    {
+      "id": "0081",
+      "emoji": "🤜",
+      "name_en": "Right Facing Fist",
+      "name_pt": "Punho Virado para Direita",
+      "description_en": "A fist facing to the right, expressing rightward direction or power",
+      "description_pt": "Um punho virado para a direita, expressando poder",
+      "description_fr": "Un poing dirigé vers la droite, exprimant la direction vers la droite ou le pouvoir",
+      "description_es": "Un puño mirando hacia la derecha, expresando dirección derecha o poder"
+    },
+    {
+      "id": "0082",
+      "emoji": "👏",
+      "name_en": "Clapping Hands",
+      "name_pt": "Mãos Batendo Palmas",
+      "description_en": "Two hands clapping in applause, expressing appreciation and congratulations",
+      "description_pt": "Duas mãos batendo palmas em aplauso, expressando apreciação",
+      "description_fr": "Deux mains qui applaudissent, exprimant l'appréciation et les félicitations",
+      "description_es": "Dos manos aplaudiendo, expresando apreciación y felicitaciones"
+    },
+    {
+      "id": "0083",
+      "emoji": "🙌",
+      "name_en": "Raising Hands",
+      "name_pt": "Mãos Levantando",
+      "description_en": "Two hands raised in celebration, expressing celebration and joy",
+      "description_pt": "Duas mãos levantadas em celebração, expressando celebração e alegria",
+      "description_fr": "Deux mains levées en célébration, exprimant la célébration et la joie",
+      "description_es": "Dos manos levantadas en celebración, expresando celebración y alegría"
+    },
+    {
+      "id": "0084",
+      "emoji": "👐",
+      "name_en": "Open Hands",
+      "name_pt": "Mãos Abertas",
+      "description_en": "Two hands opened wide, expressing openness and welcome",
+      "description_pt": "Duas mãos abertas bem abertas, expressando abertura e boas-vindas",
+      "description_fr": "Deux mains ouvertes grandes ouvertes, exprimant l'ouverture et l'accueil",
+      "description_es": "Dos manos abiertas de par en par, expresando apertura y bienvenida"
+    },
+    {
+      "id": "0085",
+      "emoji": "🤲",
+      "name_en": "Palms Up Together",
+      "name_pt": "Palmas para Cima Juntas",
+      "description_en": "Two hands with palms facing up, expressing offering or supplication",
+      "description_pt": "Duas mãos com palmas viradas para cima, expressando oferta ou súplica",
+      "description_fr": "Deux mains avec les paumes vers le haut, exprimant l'offre ou la supplication",
+      "description_es": "Dos manos con las palmas hacia arriba, expresando oferta o súplica"
+    },
+    {
+      "id": "0086",
+      "emoji": "🤝",
+      "name_en": "Handshake",
+      "name_pt": "Aperto de Mão",
+      "description_en": "Two hands shaking in agreement, expressing partnership and agreement",
+      "description_pt": "Duas mãos se apertando em concordância, expressando parceria",
+      "description_fr": "Deux mains se serrant en accord, exprimant le partenariat et l'accord",
+      "description_es": "Dos manos estrechándose en acuerdo, expresando asociación y acuerdo"
+    },
+    {
+      "id": "0087",
+      "emoji": "💅",
+      "name_en": "Nail Polish",
+      "name_pt": "Esmalte de Unhas",
+      "description_en": "A hand showing off nails, expressing confidence and self-care",
+      "description_pt": "Uma mão exibindo as unhas, expressando confiança",
+      "description_fr": "Une main affichant les ongles, exprimant la confiance et l'auto-soin",
+      "description_es": "Una mano mostrando las uñas, expresando confianza y autocuidado"
+    },
+    {
+      "id": "0088",
+      "emoji": "🤳",
+      "name_en": "Selfie",
+      "name_pt": "Selfie",
+      "description_en": "A hand holding up a phone for a selfie, expressing self-photography",
+      "description_pt": "Uma mão levantando um telefone para uma selfie, expressando autofotografia",
+      "description_fr": "Une main tenant un téléphone pour un selfie, exprimant l'auto-photographie",
+      "description_es": "Una mano sosteniendo un teléfono para un selfie, expresando auto-fotografía"
+    },
+    {
+      "id": "0089",
+      "emoji": "💪",
+      "name_en": "Flexed Biceps",
+      "name_pt": "Bíceps Flexionado",
+      "description_en": "An arm showing off muscles, expressing strength and power",
+      "description_pt": "Um braço exibindo músculos, expressando força e poder",
+      "description_fr": "Un bras affichant des muscles, exprimant la force et le pouvoir",
+      "description_es": "Un brazo mostrando músculos, expresando fuerza y poder"
+    },
+    {
+      "id": "0090",
+      "emoji": "❤️",
+      "name_en": "Red Heart",
+      "name_pt": "Coração Vermelho",
+      "description_en": "A red heart symbol, expressing love and affection",
+      "description_pt": "Um símbolo de coração vermelho, expressando amor e afeto",
+      "description_fr": "Un symbole de cœur rouge, exprimant l'amour et l'affection",
+      "description_es": "Un símbolo de corazón rojo, expresando amor y afecto"
+    },
+    {
+      "id": "0091",
+      "emoji": "🧡",
+      "name_en": "Orange Heart",
+      "name_pt": "Coração Laranja",
+      "description_en": "An orange heart symbol, expressing care and support",
+      "description_pt": "Um símbolo de coração laranja, expressando cuidado e apoio",
+      "description_fr": "Un symbole de cœur orange, exprimant les soins et le soutien",
+      "description_es": "Un símbolo de corazón naranja, expresando cuidado y apoyo"
+    },
+    {
+      "id": "0092",
+      "emoji": "💛",
+      "name_en": "Yellow Heart",
+      "name_pt": "Coração Amarelo",
+      "description_en": "A yellow heart symbol, expressing joy and cheerfulness",
+      "description_pt": "Um símbolo de coração amarelo, expressando alegria e bom humor",
+      "description_fr": "Un symbole de cœur jaune, exprimant la joie et la bonne humeur",
+      "description_es": "Un símbolo de corazón amarillo, expresando alegría y buen humor"
+    },
+    {
+      "id": "0093",
+      "emoji": "💚",
+      "name_en": "Green Heart",
+      "name_pt": "Coração Verde",
+      "description_en": "A green heart symbol, expressing hope and nature",
+      "description_pt": "Um símbolo de coração verde, expressando esperança e natureza",
+      "description_fr": "Un symbole de cœur vert, exprimant l'espoir et la nature",
+      "description_es": "Un símbolo de corazón verde, expresando esperanza y naturaleza"
+    },
+    {
+      "id": "0094",
+      "emoji": "💙",
+      "name_en": "Blue Heart",
+      "name_pt": "Coração Azul",
+      "description_en": "A blue heart symbol, expressing calm and trust",
+      "description_pt": "Um símbolo de coração azul, expressando calma e confiança",
+      "description_fr": "Un symbole de cœur bleu, exprimant la calme et la confiance",
+      "description_es": "Un símbolo de corazón azul, expresando calma y confianza"
+    },
+    {
+      "id": "0095",
+      "emoji": "💜",
+      "name_en": "Purple Heart",
+      "name_pt": "Coração Roxo",
+      "description_en": "A purple heart symbol, expressing magic and uniqueness",
+      "description_pt": "Um símbolo de coração roxo, expressando magia e singularidade",
+      "description_fr": "Un symbole de cœur violet, exprimant la magie et l'unicité",
+      "description_es": "Un símbolo de corazón púrpura, expresando magia y singularidad"
+    },
+    {
+      "id": "0096",
+      "emoji": "🖤",
+      "name_en": "Black Heart",
+      "name_pt": "Coração Preto",
+      "description_en": "A black heart symbol, expressing dark love or sarcasm",
+      "description_pt": "Um símbolo de coração preto, expressando amor escuro ou sarcasmo",
+      "description_fr": "Un symbole de cœur noir, exprimant l'amour sombre ou le sarcasme",
+      "description_es": "Un símbolo de corazón negro, expresando amor oscuro o sarcasmo"
+    },
+    {
+      "id": "0097",
+      "emoji": "🤍",
+      "name_en": "White Heart",
+      "name_pt": "Coração Branco",
+      "description_en": "A white heart symbol, expressing purity and peace",
+      "description_pt": "Um símbolo de coração branco, expressando pureza e paz",
+      "description_fr": "Un symbole de cœur blanc, exprimant la pureté et la paix",
+      "description_es": "Un símbolo de corazón blanco, expresando pureza y paz"
+    },
+    {
+      "id": "0098",
+      "emoji": "🤎",
+      "name_en": "Brown Heart",
+      "name_pt": "Coração Marrom",
+      "description_en": "A brown heart symbol, expressing earth and stability",
+      "description_pt": "Um símbolo de coração marrom, expressando terra e estabilidade",
+      "description_fr": "Un symbole de cœur marron, exprimant la terre et la stabilité",
+      "description_es": "Un símbolo de corazón marrón, expresando tierra y estabilidad"
+    },
+    {
+      "id": "0099",
+      "emoji": "💔",
+      "name_en": "Broken Heart",
+      "name_pt": "Coração Partido",
+      "description_en": "A broken heart symbol, expressing sadness and heartbreak",
+      "description_pt": "Um símbolo de coração partido, expressando tristeza e desgosto",
+      "description_fr": "Un symbole de cœur brisé, exprimant la tristesse et le chagrin d'amour",
+      "description_es": "Un símbolo de corazón roto, expresando tristeza y desamor"
+    },
+    {
+      "id": "0100",
+      "emoji": "💕",
+      "name_en": "Two Hearts",
+      "name_pt": "Dois Corações",
+      "description_en": "Two hearts together, expressing love and affection",
+      "description_pt": "Dois corações juntos, expressando amor e afeto",
+      "description_fr": "Deux cœurs ensemble, exprimant l'amour et l'affection",
+      "description_es": "Dos corazones juntos, expresando amor y afecto"
+    },
+    {
+      "id": "0101",
+      "emoji": "⭐",
+      "name_en": "Star",
+      "name_pt": "Estrela",
+      "description_en": "A star symbol, expressing excellence or prominence",
+      "description_pt": "Um símbolo de estrela, expressando excelência ou destaque",
+      "description_fr": "Un symbole d'étoile, exprimant l'excellence ou la proéminence",
+      "description_es": "Un símbolo de estrella, expresando excelencia o prominencia"
+    },
+    {
+      "id": "0102",
+      "emoji": "🌟",
+      "name_en": "Glowing Star",
+      "name_pt": "Estrela Brilhante",
+      "description_en": "A glowing star, expressing brilliance and radiance",
+      "description_pt": "Uma estrela brilhante, expressando brilho e radiância",
+      "description_fr": "Une étoile brillante, exprimant la brillance et le rayonnement",
+      "description_es": "Una estrela brillante, expresando brillantez y radiancia"
+    },
+    {
+      "id": "0103",
+      "emoji": "✨",
+      "name_en": "Sparkles",
+      "name_pt": "Cintilações",
+      "description_en": "Sparkles or stars, expressing magic and wonder",
+      "description_pt": "Cintilações ou estrelas, expressando magia e admiração",
+      "description_fr": "Des scintillements ou des étoiles, exprimant la magie et l'émerveillement",
+      "description_es": "Destellos o estrellas, expresando magia y asombro"
+    },
+    {
+      "id": "0104",
+      "emoji": "⚡",
+      "name_en": "Lightning Bolt",
+      "name_pt": "Raio",
+      "description_en": "A lightning bolt, expressing power or speed",
+      "description_pt": "Um raio, expressando poder ou velocidade",
+      "description_fr": "Un éclair, exprimant le pouvoir ou la vitesse",
+      "description_es": "Un rayo, expresando poder o velocidad"
+    },
+    {
+      "id": "0105",
+      "emoji": "❌",
+      "name_en": "Cross Mark",
+      "name_pt": "Marca de Cruz",
+      "description_en": "An X mark, expressing wrong or denied",
+      "description_pt": "Uma marca de X, expressando errado ou negado",
+      "description_fr": "Une marque en X, exprimant mal ou refusé",
+      "description_es": "Una marca X, expresando incorrecto o denegado"
+    },
+    {
+      "id": "0106",
+      "emoji": "✅",
+      "name_en": "Check Mark Button",
+      "name_pt": "Botão de Marca de Verificação",
+      "description_en": "A checkmark, expressing correct or approved",
+      "description_pt": "Uma marca de seleção, expressando correto ou aprovado",
+      "description_fr": "Une coche, exprimant correct ou approuvé",
+      "description_es": "Una marca de verificación, expresando correcto o aprobado"
+    },
+    {
+      "id": "0107",
+      "emoji": "⚠️",
+      "name_en": "Warning",
+      "name_pt": "Aviso",
+      "description_en": "A warning symbol, expressing caution or danger",
+      "description_pt": "Um símbolo de aviso, expressando cuidado ou perigo",
+      "description_fr": "Un symbole d'avertissement, exprimant la prudence ou le danger",
+      "description_es": "Un símbolo de advertencia, expresando precaución o peligro"
+    },
+    {
+      "id": "0108",
+      "emoji": "🚨",
+      "name_en": "Police Light",
+      "name_pt": "Luz de Polícia",
+      "description_en": "Police or siren light, expressing emergency or alarm",
+      "description_pt": "Luz de polícia ou sirene, expressando emergência",
+      "description_fr": "Lumière de police ou sirène, exprimant l'urgence ou l'alarme",
+      "description_es": "Luz de policía o sirena, expresando emergencia o alarma"
+    },
+    {
+      "id": "0109",
+      "emoji": "🍎",
+      "name_en": "Red Apple",
+      "name_pt": "Maçã Vermelha",
+      "description_en": "A red apple, expressing health or knowledge",
+      "description_pt": "Uma maçã vermelha, expressando saúde ou conhecimento",
+      "description_fr": "Une pomme rouge, exprimant la santé ou le savoir",
+      "description_es": "Una manzana roja, expresando salud o conocimiento"
+    },
+    {
+      "id": "0110",
+      "emoji": "🍊",
+      "name_en": "Orange",
+      "name_pt": "Laranja",
+      "description_en": "An orange fruit, expressing vitamin C or citrus",
+      "description_pt": "Uma fruta laranja, expressando vitamina C ou cítrico",
+      "description_fr": "Un fruit orange, exprimant la vitamine C ou les agrumes",
+      "description_es": "Una fruta naranja, expresando vitamina C o cítricos"
+    },
+    {
+      "id": "0111",
+      "emoji": "🍌",
+      "name_en": "Banana",
+      "name_pt": "Banana",
+      "description_en": "A banana, expressing fruit or potassium",
+      "description_pt": "Uma banana, expressando fruta ou potássio",
+      "description_fr": "Une banane, exprimant le fruit ou le potassium",
+      "description_es": "Un plátano, expresando fruta o potasio"
+    },
+    {
+      "id": "0112",
+      "emoji": "🍉",
+      "name_en": "Watermelon",
+      "name_pt": "Melancia",
+      "description_en": "A watermelon, expressing summer or refreshment",
+      "description_pt": "Uma melancia, expressando verão ou refrescamento",
+      "description_fr": "Une pastèque, exprimant l'été ou la fraîcheur",
+      "description_es": "Una sandía, expresando verano o refrescamiento"
+    },
+    {
+      "id": "0113",
+      "emoji": "🍇",
+      "name_en": "Grapes",
+      "name_pt": "Uvas",
+      "description_en": "Grapes, expressing fruit or wine",
+      "description_pt": "Uvas, expressando fruta ou vinho",
+      "description_fr": "Raisins, exprimant le fruit ou le vin",
+      "description_es": "Uvas, expresando fruta o vino"
+    },
+    {
+      "id": "0114",
+      "emoji": "🍓",
+      "name_en": "Strawberry",
+      "name_pt": "Morango",
+      "description_en": "A strawberry, expressing red berries or summer",
+      "description_pt": "Um morango, expressando bagas vermelhas ou verão",
+      "description_fr": "Une fraise, exprimant les baies rouges ou l'été",
+      "description_es": "Una fresa, expresando bayas rojas o verano"
+    },
+    {
+      "id": "0115",
+      "emoji": "🍈",
+      "name_en": "Melon",
+      "name_pt": "Melão",
+      "description_en": "A melon, expressing sweet fruit",
+      "description_pt": "Um melão, expressando fruta doce",
+      "description_fr": "Un melon, exprimant un fruit sucré",
+      "description_es": "Un melón, expresando fruta dulce"
+    },
+    {
+      "id": "0116",
+      "emoji": "🍒",
+      "name_en": "Cherries",
+      "name_pt": "Cerejas",
+      "description_en": "Cherries, expressing red berries or summer",
+      "description_pt": "Cerejas, expressando bagas vermelhas ou verão",
+      "description_fr": "Cerises, exprimant les baies rouges ou l'été",
+      "description_es": "Cerezas, expresando bayas rojas o verano"
+    },
+    {
+      "id": "0117",
+      "emoji": "🍑",
+      "name_en": "Peach",
+      "name_pt": "Pêssego",
+      "description_en": "A peach, expressing sweet fruit or summer",
+      "description_pt": "Um pêssego, expressando fruta doce ou verão",
+      "description_fr": "Une pêche, exprimant un fruit sucré ou l'été",
+      "description_es": "Un melocotón, expresando fruta dulce o verano"
+    },
+    {
+      "id": "0118",
+      "emoji": "🥥",
+      "name_en": "Coconut",
+      "name_pt": "Coco",
+      "description_en": "A coconut, expressing tropical fruit",
+      "description_pt": "Um coco, expressando fruta tropical",
+      "description_fr": "Une noix de coco, exprimant un fruit tropical",
+      "description_es": "Un coco, expresando fruta tropical"
+    },
+    {
+      "id": "0119",
+      "emoji": "🥝",
+      "name_en": "Kiwi Fruit",
+      "name_pt": "Kiwi",
+      "description_en": "A kiwi fruit, expressing green fruit",
+      "description_pt": "Um kiwi, expressando fruta verde",
+      "description_fr": "Un fruit kiwi, exprimant un fruit vert",
+      "description_es": "Una fruta kiwi, expresando fruta verde"
+    },
+    {
+      "id": "0120",
+      "emoji": "🍅",
+      "name_en": "Tomato",
+      "name_pt": "Tomate",
+      "description_en": "A tomato, expressing vegetable or freshness",
+      "description_pt": "Um tomate, expressando vegetal ou frescura",
+      "description_fr": "Une tomate, exprimant le légume ou la fraîcheur",
+      "description_es": "Un tomate, expresando vegetal o frescura"
+    },
+    {
+      "id": "0121",
+      "emoji": "🍆",
+      "name_en": "Eggplant",
+      "name_pt": "Beringela",
+      "description_en": "An eggplant, expressing purple vegetable",
+      "description_pt": "Uma beringela, expressando vegetal roxo",
+      "description_fr": "Une aubergine, exprimant un légume violet",
+      "description_es": "Una berenjena, expresando vegetal púrpura"
+    },
+    {
+      "id": "0122",
+      "emoji": "🥑",
+      "name_en": "Avocado",
+      "name_pt": "Abacate",
+      "description_en": "An avocado, expressing healthy fat",
+      "description_pt": "Um abacate, expressando gordura saudável",
+      "description_fr": "Un avocat, exprimant une graisse saine",
+      "description_es": "Un aguacate, expresando grasa saludable"
+    },
+    {
+      "id": "0123",
+      "emoji": "🥦",
+      "name_en": "Broccoli",
+      "name_pt": "Brócolis",
+      "description_en": "Broccoli, expressing healthy vegetables",
+      "description_pt": "Brócolis, expressando vegetais saudáveis",
+      "description_fr": "Brocoli, exprimant les légumes sains",
+      "description_es": "Brócoli, expresando vegetales saludables"
+    },
+    {
+      "id": "0124",
+      "emoji": "🥬",
+      "name_en": "Leafy Green",
+      "name_pt": "Folha Verde",
+      "description_en": "Leafy greens, expressing salad vegetables",
+      "description_pt": "Folhas verdes, expressando vegetais de salada",
+      "description_fr": "Légumes verts feuillus, exprimant les légumes de salade",
+      "description_es": "Verdes frondosas, expresando vegetales de ensalada"
+    },
+    {
+      "id": "0125",
+      "emoji": "🥒",
+      "name_en": "Cucumber",
+      "name_pt": "Pepino",
+      "description_en": "A cucumber, expressing green vegetable",
+      "description_pt": "Um pepino, expressando vegetal verde",
+      "description_fr": "Un concombre, exprimant un légume vert",
+      "description_es": "Un pepino, expresando vegetal verde"
+    },
+    {
+      "id": "0126",
+      "emoji": "🌶️",
+      "name_en": "Hot Pepper",
+      "name_pt": "Pimenta Quente",
+      "description_en": "A hot chili pepper, expressing spicy flavor",
+      "description_pt": "Uma pimenta quente, expressando sabor picante",
+      "description_fr": "Un piment chili épicé, exprimant une saveur épicée",
+      "description_es": "Un chile picante, expresando sabor picante"
+    },
+    {
+      "id": "0127",
+      "emoji": "🌽",
+      "name_en": "Corn",
+      "name_pt": "Milho",
+      "description_en": "Corn on the cob, expressing grain",
+      "description_pt": "Milho na espiga, expressando grão",
+      "description_fr": "Maïs sur l'épi, exprimant les céréales",
+      "description_es": "Maíz en la mazorca, expresando grano"
+    },
+    {
+      "id": "0128",
+      "emoji": "🥕",
+      "name_en": "Carrot",
+      "name_pt": "Cenoura",
+      "description_en": "A carrot, expressing orange vegetable",
+      "description_pt": "Uma cenoura, expressando vegetal laranja",
+      "description_fr": "Une carotte, exprimant un légume orange",
+      "description_es": "Una zanahoria, expresando vegetal naranja"
+    },
+    {
+      "id": "0129",
+      "emoji": "🥔",
+      "name_en": "Potato",
+      "name_pt": "Batata",
+      "description_en": "A potato, expressing starchy vegetable",
+      "description_pt": "Uma batata, expressando vegetal amido",
+      "description_fr": "Une pomme de terre, exprimant un légume riche en amidon",
+      "description_es": "Una papa, expresando vegetal feculento"
+    },
+    {
+      "id": "0130",
+      "emoji": "🍞",
+      "name_en": "Bread",
+      "name_pt": "Pão",
+      "description_en": "A loaf of bread, expressing carbohydrate",
+      "description_pt": "Uma broa de pão, expressando carboidrato",
+      "description_fr": "Une miche de pain, exprimant un glucide",
+      "description_es": "Una hogaza de pan, expresando carbohidrato"
+    },
+    {
+      "id": "0131",
+      "emoji": "🍔",
+      "name_en": "Hamburger",
+      "name_pt": "Hambúrguer",
+      "description_en": "A hamburger, expressing fast food",
+      "description_pt": "Um hambúrguer, expressando comida rápida",
+      "description_fr": "Un hamburger, exprimant la restauration rapide",
+      "description_es": "Una hamburguesa, expresando comida rápida"
+    },
+    {
+      "id": "0132",
+      "emoji": "🍕",
+      "name_en": "Pizza",
+      "name_pt": "Pizza",
+      "description_en": "A slice of pizza, expressing Italian food",
+      "description_pt": "Uma fatia de pizza, expressando comida italiana",
+      "description_fr": "Une tranche de pizza, exprimant la cuisine italienne",
+      "description_es": "Una rebanada de pizza, expresando comida italiana"
+    },
+    {
+      "id": "0133",
+      "emoji": "🍟",
+      "name_en": "French Fries",
+      "name_pt": "Batatas Fritas",
+      "description_en": "French fries, expressing fast food",
+      "description_pt": "Batatas fritas, expressando comida rápida",
+      "description_fr": "Frites, exprimant la restauration rapide",
+      "description_es": "Papas fritas, expresando comida rápida"
+    },
+    {
+      "id": "0134",
+      "emoji": "🌮",
+      "name_en": "Taco",
+      "name_pt": "Taco",
+      "description_en": "A taco, expressing Mexican food",
+      "description_pt": "Um taco, expressando comida mexicana",
+      "description_fr": "Un taco, exprimant la cuisine mexicaine",
+      "description_es": "Un taco, expresando comida mexicana"
+    },
+    {
+      "id": "0135",
+      "emoji": "🌯",
+      "name_en": "Burrito",
+      "name_pt": "Burrito",
+      "description_en": "A burrito, expressing Mexican food",
+      "description_pt": "Um burrito, expressando comida mexicana",
+      "description_fr": "Un burrito, exprimant la cuisine mexicaine",
+      "description_es": "Un burrito, expresando comida mexicana"
+    },
+    {
+      "id": "0136",
+      "emoji": "🍝",
+      "name_en": "Spaghetti",
+      "name_pt": "Espaguete",
+      "description_en": "Spaghetti pasta, expressing Italian cuisine",
+      "description_pt": "Espaguete de macarrão, expressando culinária italiana",
+      "description_fr": "Pâtes Spaghetti, exprimant la cuisine italienne",
+      "description_es": "Pasta Espagueti, expresando cocina italiana"
+    },
+    {
+      "id": "0137",
+      "emoji": "🍜",
+      "name_en": "Steaming Bowl",
+      "name_pt": "Tigela Vaporosa",
+      "description_en": "A bowl of noodles, expressing Asian cuisine",
+      "description_pt": "Uma tigela de macarrão, expressando culinária asiática",
+      "description_fr": "Un bol de nouilles, exprimant la cuisine asiatique",
+      "description_es": "Un tazón de fideos, expresando cocina asiática"
+    },
+    {
+      "id": "0138",
+      "emoji": "🍲",
+      "name_en": "Pot of Food",
+      "name_pt": "Panela de Comida",
+      "description_en": "A pot of food or soup, expressing home cooking",
+      "description_pt": "Uma panela de comida ou sopa, expressando culinária caseira",
+      "description_fr": "Un pot de nourriture ou de soupe, exprimant la cuisine maison",
+      "description_es": "Una olla de comida o sopa, expresando cocina casera"
+    },
+    {
+      "id": "0139",
+      "emoji": "🍛",
+      "name_en": "Curry Rice",
+      "name_pt": "Arroz com Curry",
+      "description_en": "Curry rice, expressing Indian cuisine",
+      "description_pt": "Arroz com curry, expressando culinária indiana",
+      "description_fr": "Riz au curry, exprimant la cuisine indienne",
+      "description_es": "Arroz al curry, expresando cocina india"
+    },
+    {
+      "id": "0140",
+      "emoji": "🍣",
+      "name_en": "Sushi",
+      "name_pt": "Sushi",
+      "description_en": "Sushi, expressing Japanese cuisine",
+      "description_pt": "Sushi, expressando culinária japonesa",
+      "description_fr": "Sushi, exprimant la cuisine japonaise",
+      "description_es": "Sushi, expresando cocina japonesa"
+    },
+    {
+      "id": "0141",
+      "emoji": "🍱",
+      "name_en": "Bento Box",
+      "name_pt": "Caixa Bento",
+      "description_en": "A bento box, expressing Japanese food",
+      "description_pt": "Uma caixa bento, expressando comida japonesa",
+      "description_fr": "Une boîte bento, exprimant la cuisine japonaise",
+      "description_es": "Una caja bento, expresando comida japonesa"
+    },
+    {
+      "id": "0142",
+      "emoji": "🍰",
+      "name_en": "Cake Slice",
+      "name_pt": "Fatia de Bolo",
+      "description_en": "A slice of cake, expressing dessert",
+      "description_pt": "Uma fatia de bolo, expressando sobremesa",
+      "description_fr": "Une tranche de gâteau, exprimant le dessert",
+      "description_es": "Una rebanada de pastel, expresando postre"
+    },
+    {
+      "id": "0143",
+      "emoji": "🎂",
+      "name_en": "Birthday Cake",
+      "name_pt": "Bolo de Aniversário",
+      "description_en": "A birthday cake, expressing celebration",
+      "description_pt": "Um bolo de aniversário, expressando celebração",
+      "description_fr": "Un gâteau d'anniversaire, exprimant la célébration",
+      "description_es": "Un pastel de cumpleaños, expresando celebración"
+    },
+    {
+      "id": "0144",
+      "emoji": "🍪",
+      "name_en": "Cookie",
+      "name_pt": "Biscoito",
+      "description_en": "A cookie, expressing sweet snack",
+      "description_pt": "Um biscoito, expressando lanche doce",
+      "description_fr": "Un biscuit, exprimant une collation sucrée",
+      "description_es": "Una galleta, expresando refrigerio dulce"
+    },
+    {
+      "id": "0145",
+      "emoji": "🍩",
+      "name_en": "Doughnut",
+      "name_pt": "Rosquinha",
+      "description_en": "A doughnut, expressing sweet treat",
+      "description_pt": "Uma rosquinha, expressando guloseima doce",
+      "description_fr": "Un beignet, exprimant une friandise sucrée",
+      "description_es": "Una rosquilla, expresando dulce",
+    },
+    {
+      "id": "0146",
+      "emoji": "🍫",
+      "name_en": "Chocolate Bar",
+      "name_pt": "Barra de Chocolate",
+      "description_en": "A chocolate bar, expressing chocolate treat",
+      "description_pt": "Uma barra de chocolate, expressando guloseima de chocolate",
+      "description_fr": "Une barre de chocolat, exprimant une friandise au chocolat",
+      "description_es": "Una barra de chocolate, expresando golosina de chocolate"
+    },
+    {
+      "id": "0147",
+      "emoji": "🍬",
+      "name_en": "Candy",
+      "name_pt": "Doce",
+      "description_en": "Candy, expressing sweet treat",
+      "description_pt": "Doce, expressando guloseima doce",
+      "description_fr": "Bonbon, exprimant une friandise sucrée",
+      "description_es": "Caramelo, expresando golosina dulce"
+    },
+    {
+      "id": "0148",
+      "emoji": "🍭",
+      "name_en": "Lollipop",
+      "name_pt": "Pirulito",
+      "description_en": "A lollipop, expressing candy",
+      "description_pt": "Um pirulito, expressando doce",
+      "description_fr": "Une sucette, exprimant un bonbon",
+      "description_es": "Una paleta, expresando caramelo"
+    },
+    {
+      "id": "0149",
+      "emoji": "🍮",
+      "name_en": "Custard",
+      "name_pt": "Pudim",
+      "description_en": "Custard dessert, expressing sweet pudding",
+      "description_pt": "Sobremesa de pudim, expressando pudim doce",
+      "description_fr": "Crème pâtissière, exprimant un pudding sucré",
+      "description_es": "Flan o crema, expresando pudín dulce"
+    },
+    {
+      "id": "0150",
+      "emoji": "🍯",
+      "name_en": "Honey Pot",
+      "name_pt": "Pote de Mel",
+      "description_en": "A pot of honey, expressing sweetness",
+      "description_pt": "Um pote de mel, expressando doçura",
+      "description_fr": "Un pot de miel, exprimant la douceur",
+      "description_es": "Una olla de miel, expresando dulzura"
+    },
+    {
+      "id": "0151",
+      "emoji": "☕",
+      "name_en": "Coffee",
+      "name_pt": "Café",
+      "description_en": "A cup of coffee, expressing caffeine",
+      "description_pt": "Uma xícara de café, expressando cafeína",
+      "description_fr": "Une tasse de café, exprimant la caféine",
+      "description_es": "Una taza de café, expresando cafeína"
+    },
+    {
+      "id": "0152",
+      "emoji": "🍵",
+      "name_en": "Teacup",
+      "name_pt": "Xícara de Chá",
+      "description_en": "A cup of tea, expressing hot beverage",
+      "description_pt": "Uma xícara de chá, expressando bebida quente",
+      "description_fr": "Une tasse de thé, exprimant une boisson chaude",
+      "description_es": "Una taza de té, expresando bebida caliente"
+    },
+    {
+      "id": "0153",
+      "emoji": "🥤",
+      "name_en": "Cup with Straw",
+      "name_pt": "Copo com Canudo",
+      "description_en": "A cup with straw, expressing beverage",
+      "description_pt": "Um copo com canudo, expressando bebida",
+      "description_fr": "Un verre avec paille, exprimant une boisson",
+      "description_es": "Un vaso con pajita, expresando bebida"
+    },
+    {
+      "id": "0154",
+      "emoji": "🥛",
+      "name_en": "Glass of Milk",
+      "name_pt": "Copo de Leite",
+      "description_en": "A glass of milk, expressing dairy",
+      "description_pt": "Um copo de leite, expressando laticínio",
+      "description_fr": "Un verre de lait, exprimant le produit laitier",
+      "description_es": "Un vaso de leche, expresando producto lácteo"
+    },
+    {
+      "id": "0155",
+      "emoji": "🍶",
+      "name_en": "Sake",
+      "name_pt": "Saquê",
+      "description_en": "Sake, expressing Japanese alcohol",
+      "description_pt": "Saquê, expressando álcool japonês",
+      "description_fr": "Sake, exprimant l'alcool japonais",
+      "description_es": "Sake, expresando alcohol japonés"
+    },
+    {
+      "id": "0156",
+      "emoji": "🍾",
+      "name_en": "Bottle with Popping Cork",
+      "name_pt": "Garrafa com Rolha",
+      "description_en": "A champagne bottle, expressing celebration",
+      "description_pt": "Uma garrafa de champagne, expressando celebração",
+      "description_fr": "Une bouteille de champagne, exprimant la célébration",
+      "description_es": "Una botella de champagne, expresando celebración"
+    },
+    {
+      "id": "0157",
+      "emoji": "🍷",
+      "name_en": "Wine Glass",
+      "name_pt": "Taça de Vinho",
+      "description_en": "A glass of wine, expressing alcohol",
+      "description_pt": "Uma taça de vinho, expressando álcool",
+      "description_fr": "Un verre de vin, exprimant l'alcool",
+      "description_es": "Una copa de vino, expresando alcohol"
+    },
+    {
+      "id": "0158",
+      "emoji": "🍸",
+      "name_en": "Cocktail Glass",
+      "name_pt": "Copo de Coquetel",
+      "description_en": "A cocktail, expressing mixed drink",
+      "description_pt": "Um coquetel, expressando bebida mista",
+      "description_fr": "Un cocktail, exprimant une boisson mixte",
+      "description_es": "Un cóctel, expresando bebida mixta"
+    },
+    {
+      "id": "0159",
+      "emoji": "🍹",
+      "name_en": "Tropical Drink",
+      "name_pt": "Bebida Tropical",
+      "description_en": "A tropical drink, expressing vacation",
+      "description_pt": "Uma bebida tropical, expressando férias",
+      "description_fr": "Une boisson tropicale, exprimant les vacances",
+      "description_es": "Una bebida tropical, expresando vacaciones"
+    },
+    {
+      "id": "0160",
+      "emoji": "🍺",
+      "name_en": "Beer Mug",
+      "name_pt": "Caneca de Cerveja",
+      "description_en": "A beer mug, expressing beer",
+      "description_pt": "Uma caneca de cerveja, expressando cerveja",
+      "description_fr": "Une chope de bière, exprimant la bière",
+      "description_es": "Una jarra de cerveza, expresando cerveza"
+    },
+    {
+      "id": "0161",
+      "emoji": "🍻",
+      "name_en": "Clinking Beer Mugs",
+      "name_pt": "Canecas de Cerveja Tilintando",
+      "description_en": "Two beers toasting, expressing celebration",
+      "description_pt": "Duas cervejas fazendo um brinde, expressando celebração",
+      "description_fr": "Deux bières qui s'entrechoquent, exprimant la célébration",
+      "description_es": "Dos cervezas brindando, expresando celebración"
+    },
+    {
+      "id": "0162",
+      "emoji": "🎉",
+      "name_en": "Party Popper",
+      "name_pt": "Confete",
+      "description_en": "Party popper with confetti, expressing celebration and joy",
+      "description_pt": "Confete de festa, expressando celebração e alegria",
+      "description_fr": "Lanceur de confettis, exprimant la célébration et la joie",
+      "description_es": "Lanzador de confeti, expresando celebración y alegría"
+    },
+    {
+      "id": "0163",
+      "emoji": "🎊",
+      "name_en": "Confetti Ball",
+      "name_pt": "Bola de Confete",
+      "description_en": "Confetti ball, expressing celebration and festivity",
+      "description_pt": "Bola de confete, expressando celebração e festividade",
+      "description_fr": "Boule de confettis, exprimant la célébration et la festivité",
+      "description_es": "Bola de confeti, expresando celebración y festividad"
+    },
+    {
+      "id": "0164",
+      "emoji": "🎈",
+      "name_en": "Balloon",
+      "name_pt": "Balão",
+      "description_en": "A balloon, expressing party or celebration",
+      "description_pt": "Um balão, expressando festa ou celebração",
+      "description_fr": "Un ballon, exprimant la fête ou la célébration",
+      "description_es": "Un globo, expresando fiesta o celebración"
+    },
+    {
+      "id": "0165",
+      "emoji": "🎀",
+      "name_en": "Ribbon",
+      "name_pt": "Fita",
+      "description_en": "A ribbon or bow, expressing gift or decoration",
+      "description_pt": "Uma fita ou laço, expressando presente ou decoração",
+      "description_fr": "Un ruban ou un arc, exprimant un cadeau ou une décoration",
+      "description_es": "Una cinta o moño, expresando regalo o decoración"
+    },
+    {
+      "id": "0166",
+      "emoji": "🎁",
+      "name_en": "Wrapped Gift",
+      "name_pt": "Presente Embrulhado",
+      "description_en": "A wrapped gift, expressing giving or presents",
+      "description_pt": "Um presente embrulhado, expressando doação ou presentes",
+      "description_fr": "Un cadeau enveloppé, exprimant le don ou les cadeaux",
+      "description_es": "Un regalo envuelto, expresando regalo o presentes"
+    },
+    {
+      "id": "0167",
+      "emoji": "⚽",
+      "name_en": "Soccer Ball",
+      "name_pt": "Bola de Futebol",
+      "description_en": "A soccer ball, expressing football sport",
+      "description_pt": "Uma bola de futebol, expressando esporte de futebol",
+      "description_fr": "Un ballon de football, exprimant le sport du football",
+      "description_es": "Un balón de fútbol, expresando deporte de fútbol"
+    },
+    {
+      "id": "0168",
+      "emoji": "🏀",
+      "name_en": "Basketball",
+      "name_pt": "Basquete",
+      "description_en": "A basketball, expressing basketball sport",
+      "description_pt": "Um basquete, expressando esporte de basquete",
+      "description_fr": "Un ballon de basket-ball, exprimant le sport du basket-ball",
+      "description_es": "Un balón de baloncesto, expresando deporte de baloncesto"
+    },
+    {
+      "id": "0169",
+      "emoji": "🏈",
+      "name_en": "American Football",
+      "name_pt": "Futebol Americano",
+      "description_en": "An American football, expressing football sport",
+      "description_pt": "Um futebol americano, expressando esporte de futebol",
+      "description_fr": "Un ballon de football américain, exprimant le sport du football",
+      "description_es": "Un balón de fútbol americano, expresando deporte de fútbol"
+    },
+    {
+      "id": "0170",
+      "emoji": "⚾",
+      "name_en": "Baseball",
+      "name_pt": "Beisebol",
+      "description_en": "A baseball, expressing baseball sport",
+      "description_pt": "Um beisebol, expressando esporte de beisebol",
+      "description_fr": "Un ballon de base-ball, exprimant le sport du base-ball",
+      "description_es": "Un balón de béisbol, expresando deporte de béisbol"
+    },
+    {
+      "id": "0171",
+      "emoji": "🎾",
+      "name_en": "Tennis",
+      "name_pt": "Tênis",
+      "description_en": "A tennis ball, expressing tennis sport",
+      "description_pt": "Uma bola de tênis, expressando esporte de tênis",
+      "description_fr": "Une balle de tennis, exprimant le sport du tennis",
+      "description_es": "Una pelota de tenis, expresando deporte de tenis"
+    },
+    {
+      "id": "0172",
+      "emoji": "🏐",
+      "name_en": "Volleyball",
+      "name_pt": "Vôlei",
+      "description_en": "A volleyball, expressing volleyball sport",
+      "description_pt": "Uma bola de vôlei, expressando esporte de vôlei",
+      "description_fr": "Un ballon de volley-ball, exprimant le sport du volley-ball",
+      "description_es": "Un balón de voleibol, expresando deporte de voleibol"
+    },
+    {
+      "id": "0173",
+      "emoji": "🎮",
+      "name_en": "Video Game",
+      "name_pt": "Videogame",
+      "description_en": "A video game controller, expressing gaming",
+      "description_pt": "Um controlador de videogame, expressando jogos",
+      "description_fr": "Une manette de jeu vidéo, exprimant le jeu",
+      "description_es": "Un controlador de videojuego, expresando juegos"
+    },
+    {
+      "id": "0174",
+      "emoji": "🎯",
+      "name_en": "Direct Hit",
+      "name_pt": "Acertou em Cheio",
+      "description_en": "A target with bullseye, expressing archery or aim",
+      "description_pt": "Um alvo com bull's-eye, expressando tiro ao alvo",
+      "description_fr": "Une cible avec carton, exprimant le tir à l'arc ou le but",
+      "description_es": "Un objetivo con diana, expresando tiro con arco o punto"
+    },
+    {
+      "id": "0175",
+      "emoji": "🎲",
+      "name_en": "Game Die",
+      "name_pt": "Dado de Jogo",
+      "description_en": "Dice or game die, expressing gambling or luck",
+      "description_pt": "Dados ou dado de jogo, expressando aposta ou sorte",
+      "description_fr": "Dé ou dé de jeu, exprimant les jeux de hasard ou la chance",
+      "description_es": "Dados o dado de juego, expresando apuestas o suerte"
+    },
+    {
+      "id": "0176",
+      "emoji": "🎨",
+      "name_en": "Artist Palette",
+      "name_pt": "Paleta de Artista",
+      "description_en": "An artist palette with paints, expressing art",
+      "description_pt": "Uma paleta de artista com tintas, expressando arte",
+      "description_fr": "Une palette d'artiste avec des peintures, exprimant l'art",
+      "description_es": "Una paleta de artista con pinturas, expresando arte"
+    },
+    {
+      "id": "0177",
+      "emoji": "🎭",
+      "name_en": "Performing Arts",
+      "name_pt": "Artes Cênicas",
+      "description_en": "Theater masks, expressing drama and theater",
+      "description_pt": "Máscaras de teatro, expressando drama e teatro",
+      "description_fr": "Masques de théâtre, exprimant le drame et le théâtre",
+      "description_es": "Máscaras de teatro, expresando drama y teatro"
+    },
+    {
+      "id": "0178",
+      "emoji": "🎪",
+      "name_en": "Circus Tent",
+      "name_pt": "Tenda de Circo",
+      "description_en": "A circus tent, expressing circus entertainment",
+      "description_pt": "Uma tenda de circo, expressando entretenimento de circo",
+      "description_fr": "Une tente de cirque, exprimant le divertissement du cirque",
+      "description_es": "Una carpa de circo, expresando entretenimiento de circo"
+    },
+    {
+      "id": "0179",
+      "emoji": "🎬",
+      "name_en": "Clapper Board",
+      "name_pt": "Claquete",
+      "description_en": "A movie clapper board, expressing films",
+      "description_pt": "Uma claquete de filme, expressando filmes",
+      "description_fr": "Une claquette de cinéma, exprimant les films",
+      "description_es": "Una claqueta de película, expresando películas"
+    },
+    {
+      "id": "0180",
+      "emoji": "🎤",
+      "name_en": "Microphone",
+      "name_pt": "Microfone",
+      "description_en": "A microphone, expressing singing or speaking",
+      "description_pt": "Um microfone, expressando canto ou fala",
+      "description_fr": "Un microphone, exprimant le chant ou la parole",
+      "description_es": "Un micrófono, expresando canto o discurso"
+    },
+    {
+      "id": "0181",
+      "emoji": "🎧",
+      "name_en": "Headphones",
+      "name_pt": "Fone de Ouvido",
+      "description_en": "Headphones, expressing music",
+      "description_pt": "Fone de ouvido, expressando música",
+      "description_fr": "Casque audio, exprimant la musique",
+      "description_es": "Auriculares, expresando música"
+    },
+    {
+      "id": "0182",
+      "emoji": "🎼",
+      "name_en": "Musical Score",
+      "name_pt": "Partitura Musical",
+      "description_en": "A musical score or notes, expressing music",
+      "description_pt": "Uma partitura musical ou notas, expressando música",
+      "description_fr": "Une partition musicale ou des notes, exprimant la musique",
+      "description_es": "Una partitura musical o notas, expresando música"
+    },
+    {
+      "id": "0183",
+      "emoji": "🎹",
+      "name_en": "Keyboard",
+      "name_pt": "Teclado",
+      "description_en": "A piano keyboard, expressing music instrument",
+      "description_pt": "Um teclado de piano, expressando instrumento musical",
+      "description_fr": "Un clavier de piano, exprimant l'instrument de musique",
+      "description_es": "Un teclado de piano, expresando instrumento musical"
+    },
+    {
+      "id": "0184",
+      "emoji": "🎷",
+      "name_en": "Saxophone",
+      "name_pt": "Saxofone",
+      "description_en": "A saxophone, expressing jazz music",
+      "description_pt": "Um saxofone, expressando música jazz",
+      "description_fr": "Un saxophone, exprimant la musique jazz",
+      "description_es": "Un saxofón, expresando música de jazz"
+    },
+    {
+      "id": "0185",
+      "emoji": "🎸",
+      "name_en": "Guitar",
+      "name_pt": "Guitarra",
+      "description_en": "A guitar, expressing music instrument",
+      "description_pt": "Uma guitarra, expressando instrumento musical",
+      "description_fr": "Une guitare, exprimant l'instrument de musique",
+      "description_es": "Una guitarra, expresando instrumento musical"
+    },
+    {
+      "id": "0186",
+      "emoji": "🥁",
+      "name_en": "Drum",
+      "name_pt": "Tambor",
+      "description_en": "Drums, expressing percussion music",
+      "description_pt": "Tambores, expressando música percussiva",
+      "description_fr": "Tambours, exprimant la musique percussive",
+      "description_es": "Tambores, expresando música de percusión"
+    },
+    {
+      "id": "0187",
+      "emoji": "📱",
+      "name_en": "Mobile Phone",
+      "name_pt": "Telefone Móvel",
+      "description_en": "A mobile phone or smartphone, expressing communication",
+      "description_pt": "Um telefone móvel ou smartphone, expressando comunicação",
+      "description_fr": "Un téléphone mobile ou smartphone, exprimant la communication",
+      "description_es": "Un teléfono móvil o smartphone, expresando comunicación"
+    },
+    {
+      "id": "0188",
+      "emoji": "💻",
+      "name_en": "Laptop",
+      "name_pt": "Laptop",
+      "description_en": "A laptop computer, expressing technology",
+      "description_pt": "Um computador laptop, expressando tecnologia",
+      "description_fr": "Un ordinateur portable, exprimant la technologie",
+      "description_es": "Una computadora portátil, expresando tecnología"
+    },
+    {
+      "id": "0189",
+      "emoji": "⌨️",
+      "name_en": "Keyboard",
+      "name_pt": "Teclado",
+      "description_en": "A computer keyboard, expressing typing",
+      "description_pt": "Um teclado de computador, expressando digitação",
+      "description_fr": "Un clavier d'ordinateur, exprimant la saisie",
+      "description_es": "Un teclado de computadora, expresando mecanografía"
+    },
+    {
+      "id": "0190",
+      "emoji": "🖥️",
+      "name_en": "Desktop Computer",
+      "name_pt": "Computador de Desktop",
+      "description_en": "A desktop computer, expressing computer",
+      "description_pt": "Um computador de desktop, expressando computador",
+      "description_fr": "Un ordinateur de bureau, exprimant l'ordinateur",
+      "description_es": "Una computadora de escritorio, expresando computadora"
+    },
+    {
+      "id": "0191",
+      "emoji": "🖨️",
+      "name_en": "Printer",
+      "name_pt": "Impressora",
+      "description_en": "A printer, expressing printing",
+      "description_pt": "Uma impressora, expressando impressão",
+      "description_fr": "Une imprimante, exprimant l'impression",
+      "description_es": "Una impresora, expresando impresión"
+    },
+    {
+      "id": "0192",
+      "emoji": "🖱️",
+      "name_en": "Computer Mouse",
+      "name_pt": "Rato de Computador",
+      "description_en": "A computer mouse, expressing clicking",
+      "description_pt": "Um rato de computador, expressando clique",
+      "description_fr": "Une souris d'ordinateur, exprimant le clic",
+      "description_es": "Un ratón de computadora, expresando clic"
+    },
+    {
+      "id": "0193",
+      "emoji": "🕹️",
+      "name_en": "Joystick",
+      "name_pt": "Joystick",
+      "description_en": "A joystick or game controller, expressing gaming",
+      "description_pt": "Um joystick ou controle de jogo, expressando jogos",
+      "description_fr": "Un joystick ou une manette de jeu, exprimant le jeu",
+      "description_es": "Un joystick o controlador de juego, expresando juegos"
+    },
+    {
+      "id": "0194",
+      "emoji": "🎓",
+      "name_en": "Graduation Cap",
+      "name_pt": "Boné de Formatura",
+      "description_en": "A graduation cap or mortarboard, expressing education",
+      "description_pt": "Um boné de formatura ou birrete, expressando educação",
+      "description_fr": "Une toque de fin d'études ou un mortier, exprimant l'éducation",
+      "description_es": "Una gorra de graduación o birrete, expresando educación"
+    },
+    {
+      "id": "0195",
+      "emoji": "📚",
+      "name_en": "Books",
+      "name_pt": "Livros",
+      "description_en": "A stack of books, expressing reading or learning",
+      "description_pt": "Uma pilha de livros, expressando leitura ou aprendizado",
+      "description_fr": "Une pile de livres, exprimant la lecture ou l'apprentissage",
+      "description_es": "Una pila de libros, expresando lectura o aprendizaje"
+    },
+    {
+      "id": "0196",
+      "emoji": "📖",
+      "name_en": "Open Book",
+      "name_pt": "Livro Aberto",
+      "description_en": "An open book, expressing reading",
+      "description_pt": "Um livro aberto, expressando leitura",
+      "description_fr": "Un livre ouvert, exprimant la lecture",
+      "description_es": "Un libro abierto, expresando lectura"
+    },
+    {
+      "id": "0197",
+      "emoji": "📝",
+      "name_en": "Memo",
+      "name_pt": "Memorando",
+      "description_en": "A notepad and pencil, expressing writing",
+      "description_pt": "Um bloco de notas e lápis, expressando escrita",
+      "description_fr": "Un bloc-notes et un crayon, exprimant l'écriture",
+      "description_es": "Un bloc de notas y lápiz, expresando escritura"
+    },
+    {
+      "id": "0198",
+      "emoji": "✏️",
+      "name_en": "Pencil",
+      "name_pt": "Lápis",
+      "description_en": "A pencil, expressing writing",
+      "description_pt": "Um lápis, expressando escrita",
+      "description_fr": "Un crayon, exprimant l'écriture",
+      "description_es": "Un lápiz, expresando escritura"
+    },
+    {
+      "id": "0199",
+      "emoji": "📞",
+      "name_en": "Telephone",
+      "name_pt": "Telefone",
+      "description_en": "A telephone, expressing phone call",
+      "description_pt": "Um telefone, expressando chamada telefônica",
+      "description_fr": "Un téléphone, exprimant un appel téléphonique",
+      "description_es": "Un teléfono, expresando llamada telefónica"
+    },
+    {
+      "id": "0200",
+      "emoji": "📧",
+      "name_en": "Email",
+      "name_pt": "Email",
+      "description_en": "An email envelope, expressing electronic mail",
+      "description_pt": "Um envelope de email, expressando correspondência eletrônica",
+      "description_fr": "Une enveloppe de courrier électronique, exprimant le courrier électronique",
+      "description_es": "Un sobre de correo electrónico, expresando correo electrónico"
+    }
+  ]
+}
