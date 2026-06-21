@@ -1,33 +1,39 @@
-
 # Emoji Database 🌍
 
-Banco de dados de emojis em JSON com descrições em 7 idiomas.
+A multilingual emoji database in JSON with descriptions in 7 languages.
 
-## Sobre
+## About
 
-Mais de 500 emojis Unicode com nomes e descrições em português, inglês, espanhol, francês, russo, chinês e árabe.
+Over 500 Unicode emojis with names and descriptions in Portuguese, English, Spanish, French, Russian, Chinese, and Arabic.
 
-## Idiomas
+## Languages
 
-- Português
-- Inglês
-- Espanhol
-- Francês
-- Russo
-- Chinês
-- Árabe
+- Portuguese
+- English
+- Spanish
+- French
+- Russian
+- Chinese
+- Arabic
 
-## Como Usar
+## How to Use
 
-Baixe o arquivo JSON e importe em seu projeto. Cada emoji contém ID, nome e descrição em todos os idiomas.
+Download the JSON file and import it into your project. Each emoji contains an ID, name, and description in all languages.
 
-## Contribuir
+## Contributing
 
-1. Faça um fork
-2. Crie uma branch com sua melhoria
-3. Envie um pull request
+1. Fork the repository
+2. Create a branch with your improvement
+3. Send a pull request
 
-## Licença
+## License
 
-MIT
-```
+MIT License
+
+Copyright 2024 Vicente Bajay (ViquinhoDev)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
