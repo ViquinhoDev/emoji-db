@@ -1,0 +1,76 @@
+{
+  "custom_emojis": [
+    {
+      "name": "Rocket",
+      "shortcode": ":rocket:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/1f680.png",
+      "description": "For launches and deployments"
+    },
+    {
+      "name": "Bug",
+      "shortcode": ":bug:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/1f41b.png",
+      "description": "For bug reports and issues"
+    },
+    {
+      "name": "Tada",
+      "shortcode": ":tada:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/1f389.png",
+      "description": "For celebrations and achievements"
+    },
+    {
+      "name": "Fire",
+      "shortcode": ":fire:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/1f525.png",
+      "description": "For trending or hot features"
+    },
+    {
+      "name": "Lock",
+      "shortcode": ":lock:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/1f512.png",
+      "description": "For security fixes and locked issues"
+    },
+    {
+      "name": "Memo",
+      "shortcode": ":memo:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png",
+      "description": "For documentation updates"
+    },
+    {
+      "name": "Sparkles",
+      "shortcode": ":sparkles:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/2728.png",
+      "description": "For new features"
+    },
+    {
+      "name": "Boom",
+      "shortcode": ":boom:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png",
+      "description": "For breaking changes"
+    },
+    {
+      "name": "Green Heart",
+      "shortcode": ":green_heart:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/1f49a.png",
+      "description": "For improvements and optimizations"
+    },
+    {
+      "name": "Books",
+      "shortcode": ":books:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png",
+      "description": "For documentation and learning"
+    },
+    {
+      "name": "Art",
+      "shortcode": ":art:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png",
+      "description": "For UI and style improvements"
+    },
+    {
+      "name": "Wrench",
+      "shortcode": ":wrench:",
+      "image_url": "https://github.githubassets.com/images/icons/emoji/unicode/1f527.png",
+      "description": "For configuration and setup"
+    }
+  ]
+}
