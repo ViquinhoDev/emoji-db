@@ -1,0 +1,1504 @@
+{
+  "emojis": [
+    {
+      "id": "0001",
+      "emoji": "😀",
+      "nome_chines": "笑脸"
+    },
+    {
+      "id": "0002",
+      "emoji": "😃",
+      "nome_chines": "张嘴笑脸"
+    },
+    {
+      "id": "0003",
+      "emoji": "😄",
+      "nome_chines": "眼睛笑脸"
+    },
+    {
+      "id": "0004",
+      "emoji": "😁",
+      "nome_chines": "咧嘴笑脸"
+    },
+    {
+      "id": "0005",
+      "emoji": "😆",
+      "nome_chines": "哈哈笑脸"
+    },
+    {
+      "id": "0006",
+      "emoji": "😅",
+      "nome_chines": "汗笑脸"
+    },
+    {
+      "id": "0007",
+      "emoji": "🤣",
+      "nome_chines": "在地上打滚笑"
+    },
+    {
+      "id": "0008",
+      "emoji": "😂",
+      "nome_chines": "开心到流泪"
+    },
+    {
+      "id": "0009",
+      "emoji": "🙂",
+      "nome_chines": "微笑脸"
+    },
+    {
+      "id": "0010",
+      "emoji": "🙃",
+      "nome_chines": "颠倒微笑脸"
+    },
+    {
+      "id": "0011",
+      "emoji": "😉",
+      "nome_chines": "眨眼脸"
+    },
+    {
+      "id": "0012",
+      "emoji": "😊",
+      "nome_chines": "微笑脸眼睛"
+    },
+    {
+      "id": "0013",
+      "emoji": "😇",
+      "nome_chines": "光环脸"
+    },
+    {
+      "id": "0014",
+      "emoji": "🥰",
+      "nome_chines": "心眼脸"
+    },
+    {
+      "id": "0015",
+      "emoji": "😍",
+      "nome_chines": "心眼爱脸"
+    },
+    {
+      "id": "0016",
+      "emoji": "🤩",
+      "nome_chines": "星眼脸"
+    },
+    {
+      "id": "0017",
+      "emoji": "😘",
+      "nome_chines": "接吻脸"
+    },
+    {
+      "id": "0018",
+      "emoji": "😗",
+      "nome_chines": "撅嘴脸"
+    },
+    {
+      "id": "0019",
+      "emoji": "😚",
+      "nome_chines": "眼睛闭接吻脸"
+    },
+    {
+      "id": "0020",
+      "emoji": "😙",
+      "nome_chines": "眼睛闭撅嘴脸"
+    },
+    {
+      "id": "0021",
+      "emoji": "🥲",
+      "nome_chines": "含泪微笑"
+    },
+    {
+      "id": "0022",
+      "emoji": "😋",
+      "nome_chines": "舔嘴脸"
+    },
+    {
+      "id": "0023",
+      "emoji": "😜",
+      "nome_chines": "吐舌眨眼脸"
+    },
+    {
+      "id": "0024",
+      "emoji": "🤪",
+      "nome_chines": "疯狂脸"
+    },
+    {
+      "id": "0025",
+      "emoji": "😝",
+      "nome_chines": "吐舌脸"
+    },
+    {
+      "id": "0026",
+      "emoji": "👥",
+      "nome_chines": "吐舌闭眼脸"
+    },
+    {
+      "id": "0027",
+      "emoji": "🤑",
+      "nome_chines": "钱眼脸"
+    },
+    {
+      "id": "0028",
+      "emoji": "🤗",
+      "nome_chines": "拥抱脸"
+    },
+    {
+      "id": "0029",
+      "emoji": "🤭",
+      "nome_chines": "捂嘴笑脸"
+    },
+    {
+      "id": "0030",
+      "emoji": "🤫",
+      "nome_chines": "嘘脸"
+    },
+    {
+      "id": "0031",
+      "emoji": "🤔",
+      "nome_chines": "思考脸"
+    },
+    {
+      "id": "0032",
+      "emoji": "🤐",
+      "nome_chines": "拉链嘴脸"
+    },
+    {
+      "id": "0033",
+      "emoji": "🤨",
+      "nome_chines": "眉毛皱脸"
+    },
+    {
+      "id": "0034",
+      "emoji": "😐",
+      "nome_chines": "中性脸"
+    },
+    {
+      "id": "0035",
+      "emoji": "😑",
+      "nome_chines": "表情呆滞脸"
+    },
+    {
+      "id": "0036",
+      "emoji": "😶",
+      "nome_chines": "无言脸"
+    },
+    {
+      "id": "0037",
+      "emoji": "😏",
+      "nome_chines": "斜眼脸"
+    },
+    {
+      "id": "0038",
+      "emoji": "😒",
+      "nome_chines": "不满脸"
+    },
+    {
+      "id": "0039",
+      "emoji": "🙄",
+      "nome_chines": "翻白眼脸"
+    },
+    {
+      "id": "0040",
+      "emoji": "😬",
+      "nome_chines": "坐立不安脸"
+    },
+    {
+      "id": "0041",
+      "emoji": "🤥",
+      "nome_chines": "说谎脸"
+    },
+    {
+      "id": "0042",
+      "emoji": "😌",
+      "nome_chines": "安心脸"
+    },
+    {
+      "id": "0043",
+      "emoji": "😔",
+      "nome_chines": "思索脸"
+    },
+    {
+      "id": "0044",
+      "emoji": "😪",
+      "nome_chines": "瞌睡脸"
+    },
+    {
+      "id": "0045",
+      "emoji": "🤤",
+      "nome_chines": "流口水脸"
+    },
+    {
+      "id": "0046",
+      "emoji": "😴",
+      "nome_chines": "睡脸"
+    },
+    {
+      "id": "0047",
+      "emoji": "😷",
+      "nome_chines": "口罩脸"
+    },
+    {
+      "id": "0048",
+      "emoji": "🤒",
+      "nome_chines": "发烧脸"
+    },
+    {
+      "id": "0049",
+      "emoji": "🤕",
+      "nome_chines": "绷带脸"
+    },
+    {
+      "id": "0050",
+      "emoji": "🤢",
+      "nome_chines": "作呕脸"
+    },
+    {
+      "id": "0051",
+      "emoji": "🤮",
+      "nome_chines": "呕吐脸"
+    },
+    {
+      "id": "0052",
+      "emoji": "🤧",
+      "nome_chines": "打喷嚏脸"
+    },
+    {
+      "id": "0053",
+      "emoji": "🤨",
+      "nome_chines": "眯眼脸"
+    },
+    {
+      "id": "0054",
+      "emoji": "🤠",
+      "nome_chines": "牛仔脸"
+    },
+    {
+      "id": "0055",
+      "emoji": "🥳",
+      "nome_chines": "派对脸"
+    },
+    {
+      "id": "0056",
+      "emoji": "😈",
+      "nome_chines": "恶魔脸"
+    },
+    {
+      "id": "0057",
+      "emoji": "🤡",
+      "nome_chines": "小丑脸"
+    },
+    {
+      "id": "0058",
+      "emoji": "👿",
+      "nome_chines": "愤怒脸"
+    },
+    {
+      "id": "0059",
+      "emoji": "💀",
+      "nome_chines": "骷髅"
+    },
+    {
+      "id": "0060",
+      "emoji": "☠️",
+      "nome_chines": "骷髅交叉骨"
+    },
+    {
+      "id": "0061",
+      "emoji": "❤️",
+      "nome_chines": "红心"
+    },
+    {
+      "id": "0062",
+      "emoji": "🧡",
+      "nome_chines": "橙心"
+    },
+    {
+      "id": "0063",
+      "emoji": "💛",
+      "nome_chines": "黄心"
+    },
+    {
+      "id": "0064",
+      "emoji": "💚",
+      "nome_chines": "绿心"
+    },
+    {
+      "id": "0065",
+      "emoji": "💙",
+      "nome_chines": "蓝心"
+    },
+    {
+      "id": "0066",
+      "emoji": "💜",
+      "nome_chines": "紫心"
+    },
+    {
+      "id": "0067",
+      "emoji": "🖤",
+      "nome_chines": "黑心"
+    },
+    {
+      "id": "0068",
+      "emoji": "🤍",
+      "nome_chines": "白心"
+    },
+    {
+      "id": "0069",
+      "emoji": "🤎",
+      "nome_chines": "棕心"
+    },
+    {
+      "id": "0070",
+      "emoji": "🤝",
+      "nome_chines": "握手"
+    },
+    {
+      "id": "0071",
+      "emoji": "👋",
+      "nome_chines": "挥手"
+    },
+    {
+      "id": "0072",
+      "emoji": "🤚",
+      "nome_chines": "背对着挥手"
+    },
+    {
+      "id": "0073",
+      "emoji": "🖐️",
+      "nome_chines": "手指张开"
+    },
+    {
+      "id": "0074",
+      "emoji": "✋",
+      "nome_chines": "举手"
+    },
+    {
+      "id": "0075",
+      "emoji": "🖖",
+      "nome_chines": "星际迷航敬礼"
+    },
+    {
+      "id": "0076",
+      "emoji": "👌",
+      "nome_chines": "好的手势"
+    },
+    {
+      "id": "0077",
+      "emoji": "🤌",
+      "nome_chines": "捏手指"
+    },
+    {
+      "id": "0078",
+      "emoji": "🤏",
+      "nome_chines": "微小手势"
+    },
+    {
+      "id": "0079",
+      "emoji": "✌️",
+      "nome_chines": "胜利手势"
+    },
+    {
+      "id": "0080",
+      "emoji": "🤞",
+      "nome_chines": "交叉手指"
+    },
+    {
+      "id": "0081",
+      "emoji": "🤟",
+      "nome_chines": "爱你手势"
+    },
+    {
+      "id": "0082",
+      "emoji": "🤘",
+      "nome_chines": "摇滚手势"
+    },
+    {
+      "id": "0083",
+      "emoji": "🤙",
+      "nome_chines": "来电手势"
+    },
+    {
+      "id": "0084",
+      "emoji": "👈",
+      "nome_chines": "向左指"
+    },
+    {
+      "id": "0085",
+      "emoji": "👉",
+      "nome_chines": "向右指"
+    },
+    {
+      "id": "0086",
+      "emoji": "👆",
+      "nome_chines": "向上指"
+    },
+    {
+      "id": "0087",
+      "emoji": "👇",
+      "nome_chines": "向下指"
+    },
+    {
+      "id": "0088",
+      "emoji": "☝️",
+      "nome_chines": "食指指向"
+    },
+    {
+      "id": "0089",
+      "emoji": "👍",
+      "nome_chines": "竖起大拇指"
+    },
+    {
+      "id": "0090",
+      "emoji": "👎",
+      "nome_chines": "竖起大拇指向下"
+    },
+    {
+      "id": "0091",
+      "emoji": "✊",
+      "nome_chines": "紧握的拳头"
+    },
+    {
+      "id": "0092",
+      "emoji": "👊",
+      "nome_chines": "打拳"
+    },
+    {
+      "id": "0093",
+      "emoji": "🤛",
+      "nome_chines": "左拳"
+    },
+    {
+      "id": "0094",
+      "emoji": "🤜",
+      "nome_chines": "右拳"
+    },
+    {
+      "id": "0095",
+      "emoji": "🤚",
+      "nome_chines": "背面向上手"
+    },
+    {
+      "id": "0096",
+      "emoji": "🌟",
+      "nome_chines": "闪闪发光的星星"
+    },
+    {
+      "id": "0097",
+      "emoji": "⭐",
+      "nome_chines": "星星"
+    },
+    {
+      "id": "0098",
+      "emoji": "✨",
+      "nome_chines": "闪闪发光"
+    },
+    {
+      "id": "0099",
+      "emoji": "⚡",
+      "nome_chines": "闪电"
+    },
+    {
+      "id": "0100",
+      "emoji": "🔥",
+      "nome_chines": "火焰"
+    },
+    {
+      "id": "0101",
+      "emoji": "💥",
+      "nome_chines": "爆炸"
+    },
+    {
+      "id": "0102",
+      "emoji": "💫",
+      "nome_chines": "眩晕"
+    },
+    {
+      "id": "0103",
+      "emoji": "🌈",
+      "nome_chines": "彩虹"
+    },
+    {
+      "id": "0104",
+      "emoji": "☀️",
+      "nome_chines": "太阳"
+    },
+    {
+      "id": "0105",
+      "emoji": "🌙",
+      "nome_chines": "月亮"
+    },
+    {
+      "id": "0106",
+      "emoji": "⭐",
+      "nome_chines": "星星"
+    },
+    {
+      "id": "0107",
+      "emoji": "🍎",
+      "nome_chines": "红苹果"
+    },
+    {
+      "id": "0108",
+      "emoji": "🍊",
+      "nome_chines": "橙子"
+    },
+    {
+      "id": "0109",
+      "emoji": "🍋",
+      "nome_chines": "柠檬"
+    },
+    {
+      "id": "0110",
+      "emoji": "🍌",
+      "nome_chines": "香蕉"
+    },
+    {
+      "id": "0111",
+      "emoji": "🍉",
+      "nome_chines": "西瓜"
+    },
+    {
+      "id": "0112",
+      "emoji": "🍇",
+      "nome_chines": "葡萄"
+    },
+    {
+      "id": "0113",
+      "emoji": "🍓",
+      "nome_chines": "草莓"
+    },
+    {
+      "id": "0114",
+      "emoji": "🍈",
+      "nome_chines": "甜瓜"
+    },
+    {
+      "id": "0115",
+      "emoji": "🍒",
+      "nome_chines": "樱桃"
+    },
+    {
+      "id": "0116",
+      "emoji": "🍑",
+      "nome_chines": "桃子"
+    },
+    {
+      "id": "0117",
+      "emoji": "🥭",
+      "nome_chines": "芒果"
+    },
+    {
+      "id": "0118",
+      "emoji": "🍍",
+      "nome_chines": "菠萝"
+    },
+    {
+      "id": "0119",
+      "emoji": "🥥",
+      "nome_chines": "椰子"
+    },
+    {
+      "id": "0120",
+      "emoji": "🥑",
+      "nome_chines": "牛油果"
+    },
+    {
+      "id": "0121",
+      "emoji": "🍆",
+      "nome_chines": "茄子"
+    },
+    {
+      "id": "0122",
+      "emoji": "🥦",
+      "nome_chines": "西兰花"
+    },
+    {
+      "id": "0123",
+      "emoji": "🥬",
+      "nome_chines": "绿叶蔬菜"
+    },
+    {
+      "id": "0124",
+      "emoji": "🥒",
+      "nome_chines": "黄瓜"
+    },
+    {
+      "id": "0125",
+      "emoji": "🌶️",
+      "nome_chines": "辣椒"
+    },
+    {
+      "id": "0126",
+      "emoji": "🌽",
+      "nome_chines": "玉米"
+    },
+    {
+      "id": "0127",
+      "emoji": "🥕",
+      "nome_chines": "胡萝卜"
+    },
+    {
+      "id": "0128",
+      "emoji": "🧄",
+      "nome_chines": "大蒜"
+    },
+    {
+      "id": "0129",
+      "emoji": "🧅",
+      "nome_chines": "洋葱"
+    },
+    {
+      "id": "0130",
+      "emoji": "🥔",
+      "nome_chines": "土豆"
+    },
+    {
+      "id": "0131",
+      "emoji": "🍞",
+      "nome_chines": "面包"
+    },
+    {
+      "id": "0132",
+      "emoji": "🥐",
+      "nome_chines": "羊角面包"
+    },
+    {
+      "id": "0133",
+      "emoji": "🥖",
+      "nome_chines": "法棍面包"
+    },
+    {
+      "id": "0134",
+      "emoji": "🥨",
+      "nome_chines": "椒盐卷饼"
+    },
+    {
+      "id": "0135",
+      "emoji": "🧀",
+      "nome_chines": "奶酪"
+    },
+    {
+      "id": "0136",
+      "emoji": "🥚",
+      "nome_chines": "鸡蛋"
+    },
+    {
+      "id": "0137",
+      "emoji": "🍳",
+      "nome_chines": "煎蛋"
+    },
+    {
+      "id": "0138",
+      "emoji": "🧈",
+      "nome_chines": "黄油"
+    },
+    {
+      "id": "0139",
+      "emoji": "🥞",
+      "nome_chines": "薄饼"
+    },
+    {
+      "id": "0140",
+      "emoji": "🥓",
+      "nome_chines": "培根"
+    },
+    {
+      "id": "0141",
+      "emoji": "🥞",
+      "nome_chines": "薄饼"
+    },
+    {
+      "id": "0142",
+      "emoji": "🍗",
+      "nome_chines": "鸡腿"
+    },
+    {
+      "id": "0143",
+      "emoji": "🍖",
+      "nome_chines": "肉排"
+    },
+    {
+      "id": "0144",
+      "emoji": "🌭",
+      "nome_chines": "热狗"
+    },
+    {
+      "id": "0145",
+      "emoji": "🍔",
+      "nome_chines": "汉堡"
+    },
+    {
+      "id": "0146",
+      "emoji": "🍟",
+      "nome_chines": "薯条"
+    },
+    {
+      "id": "0147",
+      "emoji": "🍕",
+      "nome_chines": "披萨"
+    },
+    {
+      "id": "0148",
+      "emoji": "🥪",
+      "nome_chines": "三明治"
+    },
+    {
+      "id": "0149",
+      "emoji": "🥙",
+      "nome_chines": "填充面包"
+    },
+    {
+      "id": "0150",
+      "emoji": "🧆",
+      "nome_chines": "油炸豆丸"
+    },
+    {
+      "id": "0151",
+      "emoji": "🌮",
+      "nome_chines": "玉米饼"
+    },
+    {
+      "id": "0152",
+      "emoji": "🌯",
+      "nome_chines": "卷饼"
+    },
+    {
+      "id": "0153",
+      "emoji": "🥗",
+      "nome_chines": "沙拉"
+    },
+    {
+      "id": "0154",
+      "emoji": "🥘",
+      "nome_chines": "食物锅"
+    },
+    {
+      "id": "0155",
+      "emoji": "🥫",
+      "nome_chines": "罐头食品"
+    },
+    {
+      "id": "0156",
+      "emoji": "🍝",
+      "nome_chines": "意大利面"
+    },
+    {
+      "id": "0157",
+      "emoji": "🍜",
+      "nome_chines": "面条碗"
+    },
+    {
+      "id": "0158",
+      "emoji": "🍲",
+      "nome_chines": "沸腾的碗"
+    },
+    {
+      "id": "0159",
+      "emoji": "🍛",
+      "nome_chines": "咖喱米"
+    },
+    {
+      "id": "0160",
+      "emoji": "🍣",
+      "nome_chines": "寿司"
+    },
+    {
+      "id": "0161",
+      "emoji": "🍱",
+      "nome_chines": "日式便当"
+    },
+    {
+      "id": "0162",
+      "emoji": "🥟",
+      "nome_chines": "饺子"
+    },
+    {
+      "id": "0163",
+      "emoji": "🦪",
+      "nome_chines": "牡蛎"
+    },
+    {
+      "id": "0164",
+      "emoji": "🍤",
+      "nome_chines": "虾"
+    },
+    {
+      "id": "0165",
+      "emoji": "🍙",
+      "nome_chines": "米团"
+    },
+    {
+      "id": "0166",
+      "emoji": "🍚",
+      "nome_chines": "米饭碗"
+    },
+    {
+      "id": "0167",
+      "emoji": "🍘",
+      "nome_chines": "米饼"
+    },
+    {
+      "id": "0168",
+      "emoji": "🍥",
+      "nome_chines": "鱼糕"
+    },
+    {
+      "id": "0169",
+      "emoji": "🥠",
+      "nome_chines": "幸运饼"
+    },
+    {
+      "id": "0170",
+      "emoji": "🥮",
+      "nome_chines": "月饼"
+    },
+    {
+      "id": "0171",
+      "emoji": "🍢",
+      "nome_chines": "串烧"
+    },
+    {
+      "id": "0172",
+      "emoji": "🍡",
+      "nome_chines": "团子"
+    },
+    {
+      "id": "0173",
+      "emoji": "🍧",
+      "nome_chines": "刨冰"
+    },
+    {
+      "id": "0174",
+      "emoji": "🍨",
+      "nome_chines": "冰淇淋"
+    },
+    {
+      "id": "0175",
+      "emoji": "🍦",
+      "nome_chines": "软冰淇淋"
+    },
+    {
+      "id": "0176",
+      "emoji": "🍰",
+      "nome_chines": "蛋糕片"
+    },
+    {
+      "id": "0177",
+      "emoji": "🎂",
+      "nome_chines": "生日蛋糕"
+    },
+    {
+      "id": "0178",
+      "emoji": "🧁",
+      "nome_chines": "纸杯蛋糕"
+    },
+    {
+      "id": "0179",
+      "emoji": "🍮",
+      "nome_chines": "蛋奶"
+    },
+    {
+      "id": "0180",
+      "emoji": "🍭",
+      "nome_chines": "棒棒糖"
+    },
+    {
+      "id": "0181",
+      "emoji": "🍬",
+      "nome_chines": "糖果"
+    },
+    {
+      "id": "0182",
+      "emoji": "🍫",
+      "nome_chines": "巧克力"
+    },
+    {
+      "id": "0183",
+      "emoji": "🍿",
+      "nome_chines": "爆米花"
+    },
+    {
+      "id": "0184",
+      "emoji": "🍩",
+      "nome_chines": "甜甜圈"
+    },
+    {
+      "id": "0185",
+      "emoji": "🍪",
+      "nome_chines": "饼干"
+    },
+    {
+      "id": "0186",
+      "emoji": "🌰",
+      "nome_chines": "栗子"
+    },
+    {
+      "id": "0187",
+      "emoji": "🍯",
+      "nome_chines": "蜂蜜罐"
+    },
+    {
+      "id": "0188",
+      "emoji": "🥛",
+      "nome_chines": "牛奶杯"
+    },
+    {
+      "id": "0189",
+      "emoji": "🍼",
+      "nome_chines": "婴儿奶瓶"
+    },
+    {
+      "id": "0190",
+      "emoji": "☕",
+      "nome_chines": "咖啡"
+    },
+    {
+      "id": "0191",
+      "emoji": "🍵",
+      "nome_chines": "茶杯"
+    },
+    {
+      "id": "0192",
+      "emoji": "🍶",
+      "nome_chines": "清酒"
+    },
+    {
+      "id": "0193",
+      "emoji": "🍾",
+      "nome_chines": "香槟"
+    },
+    {
+      "id": "0194",
+      "emoji": "🍷",
+      "nome_chines": "葡萄酒杯"
+    },
+    {
+      "id": "0195",
+      "emoji": "🍸",
+      "nome_chines": "鸡尾酒杯"
+    },
+    {
+      "id": "0196",
+      "emoji": "🍹",
+      "nome_chines": "热带饮料"
+    },
+    {
+      "id": "0197",
+      "emoji": "🍺",
+      "nome_chines": "啤酒杯"
+    },
+    {
+      "id": "0198",
+      "emoji": "🍻",
+      "nome_chines": "碰杯"
+    },
+    {
+      "id": "0199",
+      "emoji": "🥂",
+      "nome_chines": "香槟眼镜"
+    },
+    {
+      "id": "0200",
+      "emoji": "🥃",
+      "nome_chines": "杯子搭配食物"
+    },
+    {
+      "id": "0201",
+      "emoji": "🥤",
+      "nome_chines": "饮料杯"
+    },
+    {
+      "id": "0202",
+      "emoji": "🥢",
+      "nome_chines": "筷子"
+    },
+    {
+      "id": "0203",
+      "emoji": "🍽️",
+      "nome_chines": "餐刀叉勺"
+    },
+    {
+      "id": "0204",
+      "emoji": "🍴",
+      "nome_chines": "餐刀叉"
+    },
+    {
+      "id": "0205",
+      "emoji": "🥄",
+      "nome_chines": "勺子"
+    },
+    {
+      "id": "0206",
+      "emoji": "🐶",
+      "nome_chines": "狗脸"
+    },
+    {
+      "id": "0207",
+      "emoji": "🐱",
+      "nome_chines": "猫脸"
+    },
+    {
+      "id": "0208",
+      "emoji": "🐭",
+      "nome_chines": "鼠脸"
+    },
+    {
+      "id": "0209",
+      "emoji": "🐹",
+      "nome_chines": "仓鼠"
+    },
+    {
+      "id": "0210",
+      "emoji": "🐰",
+      "nome_chines": "兔脸"
+    },
+    {
+      "id": "0211",
+      "emoji": "🦊",
+      "nome_chines": "狐狸"
+    },
+    {
+      "id": "0212",
+      "emoji": "🐻",
+      "nome_chines": "熊脸"
+    },
+    {
+      "id": "0213",
+      "emoji": "🐼",
+      "nome_chines": "熊猫"
+    },
+    {
+      "id": "0214",
+      "emoji": "🐨",
+      "nome_chines": "考拉"
+    },
+    {
+      "id": "0215",
+      "emoji": "🐯",
+      "nome_chines": "老虎脸"
+    },
+    {
+      "id": "0216",
+      "emoji": "🦁",
+      "nome_chines": "狮子"
+    },
+    {
+      "id": "0217",
+      "emoji": "🐮",
+      "nome_chines": "牛脸"
+    },
+    {
+      "id": "0218",
+      "emoji": "🐷",
+      "nome_chines": "猪脸"
+    },
+    {
+      "id": "0219",
+      "emoji": "🐽",
+      "nome_chines": "猪鼻子"
+    },
+    {
+      "id": "0220",
+      "emoji": "🐸",
+      "nome_chines": "青蛙"
+    },
+    {
+      "id": "0221",
+      "emoji": "🐵",
+      "nome_chines": "猴脸"
+    },
+    {
+      "id": "0222",
+      "emoji": "🙈",
+      "nome_chines": "不看的猴"
+    },
+    {
+      "id": "0223",
+      "emoji": "🙉",
+      "nome_chines": "不听的猴"
+    },
+    {
+      "id": "0224",
+      "emoji": "🙊",
+      "nome_chines": "不说的猴"
+    },
+    {
+      "id": "0225",
+      "emoji": "🐒",
+      "nome_chines": "猴子"
+    },
+    {
+      "id": "0226",
+      "emoji": "🐔",
+      "nome_chines": "鸡脸"
+    },
+    {
+      "id": "0227",
+      "emoji": "🐧",
+      "nome_chines": "企鹅"
+    },
+    {
+      "id": "0228",
+      "emoji": "🐦",
+      "nome_chines": "鸟"
+    },
+    {
+      "id": "0229",
+      "emoji": "🐤",
+      "nome_chines": "宝宝鸡"
+    },
+    {
+      "id": "0230",
+      "emoji": "🦆",
+      "nome_chines": "鸭子"
+    },
+    {
+      "id": "0231",
+      "emoji": "🦅",
+      "nome_chines": "鹰"
+    },
+    {
+      "id": "0232",
+      "emoji": "🦉",
+      "nome_chines": "猫头鹰"
+    },
+    {
+      "id": "0233",
+      "emoji": "🦇",
+      "nome_chines": "蝙蝠"
+    },
+    {
+      "id": "0234",
+      "emoji": "🐺",
+      "nome_chines": "狼脸"
+    },
+    {
+      "id": "0235",
+      "emoji": "🐗",
+      "nome_chines": "野猪"
+    },
+    {
+      "id": "0236",
+      "emoji": "🐴",
+      "nome_chines": "马脸"
+    },
+    {
+      "id": "0237",
+      "emoji": "🦄",
+      "nome_chines": "独角兽"
+    },
+    {
+      "id": "0238",
+      "emoji": "🐝",
+      "nome_chines": "蜜蜂"
+    },
+    {
+      "id": "0239",
+      "emoji": "🪱",
+      "nome_chines": "篮子"
+    },
+    {
+      "id": "0240",
+      "emoji": "🐛",
+      "nome_chines": "虫"
+    },
+    {
+      "id": "0241",
+      "emoji": "🦋",
+      "nome_chines": "蝴蝶"
+    },
+    {
+      "id": "0242",
+      "emoji": "🌺",
+      "nome_chines": "芙蓉花"
+    },
+    {
+      "id": "0243",
+      "emoji": "🌸",
+      "nome_chines": "樱花"
+    },
+    {
+      "id": "0244",
+      "emoji": "🌼",
+      "nome_chines": "向日葵"
+    },
+    {
+      "id": "0245",
+      "emoji": "🌻",
+      "nome_chines": "向日葵花"
+    },
+    {
+      "id": "0246",
+      "emoji": "🌞",
+      "nome_chines": "太阳脸"
+    },
+    {
+      "id": "0247",
+      "emoji": "🌝",
+      "nome_chines": "满月脸"
+    },
+    {
+      "id": "0248",
+      "emoji": "🌛",
+      "nome_chines": "初月脸"
+    },
+    {
+      "id": "0249",
+      "emoji": "🌜",
+      "nome_chines": "最后季度脸"
+    },
+    {
+      "id": "0250",
+      "emoji": "🎃",
+      "nome_chines": "南瓜"
+    },
+    {
+      "id": "0251",
+      "emoji": "⚽",
+      "nome_chines": "足球"
+    },
+    {
+      "id": "0252",
+      "emoji": "⚾",
+      "nome_chines": "棒球"
+    },
+    {
+      "id": "0253",
+      "emoji": "🥎",
+      "nome_chines": "垒球"
+    },
+    {
+      "id": "0254",
+      "emoji": "🎾",
+      "nome_chines": "网球"
+    },
+    {
+      "id": "0255",
+      "emoji": "🏀",
+      "nome_chines": "篮球"
+    },
+    {
+      "id": "0256",
+      "emoji": "🏐",
+      "nome_chines": "排球"
+    },
+    {
+      "id": "0257",
+      "emoji": "🏈",
+      "nome_chines": "美式足球"
+    },
+    {
+      "id": "0258",
+      "emoji": "🏉",
+      "nome_chines": "橄榄球"
+    },
+    {
+      "id": "0259",
+      "emoji": "🥏",
+      "nome_chines": "木棒和球"
+    },
+    {
+      "id": "0260",
+      "emoji": "🎱",
+      "nome_chines": "台球"
+    },
+    {
+      "id": "0261",
+      "emoji": "🪀",
+      "nome_chines": "溜溜球"
+    },
+    {
+      "id": "0262",
+      "emoji": "🎳",
+      "nome_chines": "保龄球"
+    },
+    {
+      "id": "0263",
+      "emoji": "🎯",
+      "nome_chines": "靶"
+    },
+    {
+      "id": "0264",
+      "emoji": "🎮",
+      "nome_chines": "电子游戏手柄"
+    },
+    {
+      "id": "0265",
+      "emoji": "🎲",
+      "nome_chines": "骰子"
+    },
+    {
+      "id": "0266",
+      "emoji": "♠️",
+      "nome_chines": "黑桃"
+    },
+    {
+      "id": "0267",
+      "emoji": "♥️",
+      "nome_chines": "红心"
+    },
+    {
+      "id": "0268",
+      "emoji": "♦️",
+      "nome_chines": "方块"
+    },
+    {
+      "id": "0269",
+      "emoji": "♣️",
+      "nome_chines": "梅花"
+    },
+    {
+      "id": "0270",
+      "emoji": "🚗",
+      "nome_chines": "轿车"
+    },
+    {
+      "id": "0271",
+      "emoji": "🚕",
+      "nome_chines": "出租车"
+    },
+    {
+      "id": "0272",
+      "emoji": "🚙",
+      "nome_chines": "越野车"
+    },
+    {
+      "id": "0273",
+      "emoji": "🚌",
+      "nome_chines": "公共汽车"
+    },
+    {
+      "id": "0274",
+      "emoji": "🚎",
+      "nome_chines": "无轨电车"
+    },
+    {
+      "id": "0275",
+      "emoji": "🏎️",
+      "nome_chines": "赛车"
+    },
+    {
+      "id": "0276",
+      "emoji": "🚓",
+      "nome_chines": "警车"
+    },
+    {
+      "id": "0277",
+      "emoji": "🚑",
+      "nome_chines": "救护车"
+    },
+    {
+      "id": "0278",
+      "emoji": "🚒",
+      "nome_chines": "消防车"
+    },
+    {
+      "id": "0279",
+      "emoji": "🚐",
+      "nome_chines": "小客车"
+    },
+    {
+      "id": "0280",
+      "emoji": "🛻",
+      "nome_chines": "皮卡车"
+    },
+    {
+      "id": "0281",
+      "emoji": "🚚",
+      "nome_chines": "货运卡车"
+    },
+    {
+      "id": "0282",
+      "emoji": "🚛",
+      "nome_chines": "铰接式卡车"
+    },
+    {
+      "id": "0283",
+      "emoji": "🚜",
+      "nome_chines": "拖拉机"
+    },
+    {
+      "id": "0284",
+      "emoji": "🏍️",
+      "nome_chines": "摩托车"
+    },
+    {
+      "id": "0285",
+      "emoji": "🏎",
+      "nome_chines": "赛车"
+    },
+    {
+      "id": "0286",
+      "emoji": "🛵",
+      "nome_chines": "踏板车"
+    },
+    {
+      "id": "0287",
+      "emoji": "🦯",
+      "nome_chines": "白手杖"
+    },
+    {
+      "id": "0288",
+      "emoji": "🛺",
+      "nome_chines": "自动人力车"
+    },
+    {
+      "id": "0289",
+      "emoji": "🚲",
+      "nome_chines": "自行车"
+    },
+    {
+      "id": "0290",
+      "emoji": "🛴",
+      "nome_chines": "滑板车"
+    },
+    {
+      "id": "0291",
+      "emoji": "🚨",
+      "nome_chines": "警笛"
+    },
+    {
+      "id": "0292",
+      "emoji": "🚔",
+      "nome_chines": "警车从警察"
+    },
+    {
+      "id": "0293",
+      "emoji": "🚍",
+      "nome_chines": "公共汽车从后面"
+    },
+    {
+      "id": "0294",
+      "emoji": "🚘",
+      "nome_chines": "车从右"
+    },
+    {
+      "id": "0295",
+      "emoji": "🚖",
+      "nome_chines": "出租车从后面"
+    },
+    {
+      "id": "0296",
+      "emoji": "🚡",
+      "nome_chines": "缆车"
+    },
+    {
+      "id": "0297",
+      "emoji": "🚠",
+      "nome_chines": "缆车"
+    },
+    {
+      "id": "0298",
+      "emoji": "🚟",
+      "nome_chines": "悬浮铁路"
+    },
+    {
+      "id": "0299",
+      "emoji": "🚃",
+      "nome_chines": "火车"
+    },
+    {
+      "id": "0300",
+      "emoji": "🚋",
+      "nome_chines": "电车"
+    }
+  ]
+}
